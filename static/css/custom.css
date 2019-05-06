@@ -26,11 +26,24 @@ body {
 */
 
 
+
 .navbar-default {
   background-color: #000000;
   border: 30 !important;
   margin-bottom: 30 !important;
   font-size : 35px;
+}
+
+.navbar-default .navbar-brand{
+
+/* default values
+padding: 10px 20px 10px;
+margin-left: -20px; 
+*/
+
+/* move Project name 10px left */
+   padding: 20px 20px 20px 20px;
+
 }
 
 .navbar-default .navbar-brand {
