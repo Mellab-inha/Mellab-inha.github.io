@@ -3,7 +3,17 @@
 /*
 font change zone.... fuck...
 */
+.navbar .brand {
 
+/* default values
+padding: 10px 20px 10px;
+margin-left: -20px; 
+*/
+
+/* move Project name 10px left */
+   padding: 20px 20px 20px 20px;
+
+}
 
 body {
   /*padding-top: 80px;  80 50 40*/ 
@@ -28,7 +38,7 @@ body {
 
 .navbar-default {
   background-color: #000000;
-  border: 200 !important;
+  border: 30 !important;
   margin-bottom: 30 !important;
   font-size : 35px;
 }
