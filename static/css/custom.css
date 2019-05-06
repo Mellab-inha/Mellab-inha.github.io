@@ -2,9 +2,6 @@
 font change zone.... fuck...
 */
 
-.navbar { 
-  height: 80px; // your value
-}
 body {
   /*padding-top: 80px;  80 50 40*/ 
   /*padding-top: 50px; /* this was to make it the same height as the navbar so there is no gap between navbar and header image -- changed back now though*/
@@ -25,9 +22,15 @@ body {
 
 */
 
+.navbar-default { 
+  min-height:  80px; 
+
+}
+
 .navbar-default .navbar-brand { 
-  padding: 0 15px; // your values
-  height: 80px; // your value
+  padding: 0 15px; 
+  height: 80px; 
+  line-height: 80px;
 }
 
 .navbar-default {
