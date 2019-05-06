@@ -1,0 +1,37 @@
+- name: Home
+  link: "/"
+  group: home
+
+- name: Research
+  link: "/research"
+  group: research
+
+#- name: projects
+#  link: "/projects"
+#  group: projects
+
+- name: Publications
+  link: "/publications"
+  group: publications
+
+
+- name: Members
+  link: "/members"
+  group: members
+
+- name: Gallery
+  link: "/gallery"
+  group: gallery
+
+- name: Contact
+  link: "/contact"
+  group: contact
+
+
+# - name: links
+#   link: "/links"
+#   group: links
+
+#- name: private
+#  link: "https://sites.google.com/site/zunderlab/"
+#  group: private

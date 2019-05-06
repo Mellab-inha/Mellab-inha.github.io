@@ -1,0 +1,227 @@
+- name: Dae Yu Kim
+  image: /static/img/members/DYKim.jpg
+  #position: Professor
+  #email: dyukim@inha.ac.kr
+  #scholar: "wHUbRh4AAAAJ&hl"
+  description: "
+  **Name** : Dae Yu Kim
+
+
+  **Position** : Associate Professor
+
+
+  **email** : dyukim@inha.ac.kr
+
+
+  **Education**
+
+
+2011.9 Ph.D. Biomedical Engineering, University of California at Davis
+
+
+2007.6 M.Eng. Electrical Engineering, State University of New York at Buffalo
+
+
+2000.2 B.Eng. Electrical Engineering, Inha University
+
+
+**Experience**
+
+
+2017.03 ~ Associate Professor, Department of Electrical Engineering, Inha University
+
+
+2014.09 ~ 2017.02 Assistant Professor, Department of Medicine, Dankook University
+
+
+2013.04 ~ 2014.06 Postdoctoral Researcher, University of Southern California
+
+
+2012.04 ~ 2013.03 Postdoctoral Researcher, California Institute of Technology
+
+
+2011.09 ~ 2012.03 Postdoctoral Researcher, University of California at Davis"
+
+- name: Dong Jin Lee
+  image: /static/img/members/DrLeeProfile.jpeg
+  #position: ...
+  #email: voinaimir82@gmail.com
+  description: '**Name** : Dong Jin Lee
+
+
+  **Position** : Postdoc
+
+
+  **Research field** : Soft materials / Actuators
+
+
+  **email** : voinaimir82@gmail.com
+
+
+  '
+
+- name: Myung hee Kim 
+  image: /static/img/members/DrKimProfile.jpeg
+  #position: ...
+  #email: 318560@inha.ac.kr
+  description: "**Name** : Myung hee Kim 
+
+
+  **Position** : Postdoc
+
+
+  **Research field** : Ocular degeneration / chemical genomics / tissue engineering / stem cell research
+
+
+  **email** : 318560@inha.ac.kr
+  "
+
+- name: Hang Chan Jo
+  image: /static/img/members/unknownMan.jpg
+  #position: Ph.D Student
+  #email: 
+  description: "**Name** : Hang Chan Jo
+
+
+  **Position** : Ph.D Student
+
+
+  **Research field** : 
+
+
+  **email** : "
+
+- name: Sung Hun Jung
+  image: /static/img/members/JSH.jpeg
+  #position: 
+  #email: 
+  description: "**Name** : Sung Hun Jung
+
+
+  **Position** : Ph.D Student
+
+
+  **Research field** : Computional Adaptive Optics / Raytracing/ Blood Vessel and Pressure
+
+
+  **email** : tjdgns3481@naver.com"
+
+- name: Su Keun Oh
+  image: /static/img/members/SGSG.jpeg
+  #position: M.S Student
+  #email: sky51208@gmail.com
+  description: "**Name** : Su Guen Oh
+
+
+  **Position** : M.S Student
+
+
+  **Research field** : Adaptive Optics ( SLO / Aberrometer /Microscopy / Fundus )
+
+
+  **email** : sky51208@gmail.com "
+
+- name: Jun Hyuk Lee
+  image: /static/img/members/JH2.jpeg
+  #position: M.S Student
+  #email: ...
+  description: "**Name** : Jun Hyuk Lee
+
+
+  **Position** : M.S Student
+
+
+  **Research field** : 
+
+
+  **email** : "
+
+- name: Hyeon Woo Jeong
+  image: /static/img/members/HYBono.jpeg
+  #position: M.S Student
+  #email: qhsh9713@gmail.com
+  description: "**Name** : Hyeon Woo Jeong
+
+
+  **Position** : M.S Student
+
+
+  **Research field** : Image quantification / Sementic segmentation / Deep learning
+
+
+  **email** : qhsh9713@gmail.com"
+
+- name: Yeon Ju Seo
+  image: /static/img/members/YJ.jpg
+  #position: Undergraduate Student
+  #email: 
+  description: "**Name** : Yeon Ju Seo
+
+
+  **Position** : Undergraduate Student
+
+
+  **Research field** : 
+
+
+  **email** : "
+
+- name: Kyo Sik Min
+  image: /static/img/members/MS.jpeg
+  #position: Undergraduate Student
+  #email: alsrytlr@gmail.com 
+  description: "**Name** : Kyo Sik Min
+
+
+  **Position** : Undergraduate Student
+
+
+  **Research field** : Plasma
+
+
+  **email** : forestcloud95@gmail.com"
+
+- name: Gi Hun Lee
+  image: /static/img/members/Under_Gihun.jpeg
+  #position: Undergraduate Student
+  #email: 
+  description: "**Name** : Gi Hun Lee
+
+
+  **Position** : Undergraduate Student
+
+
+  **Research field** : 
+
+
+  **email** : kan351@naver.com"
+
+- name: Jeong Hun Kim
+  image: /static/img/members/Under_JeongHoon.jpeg
+  #position: Undergraduate Student
+  #email: hotof123@naver.com
+  description: "**Name** : Jeong Hun Kim
+
+
+  **Position** : Undergraduate Student
+
+
+  **Research field** : 
+
+
+  **email** : hotof123@naver.com"
+
+- name: Hyeon Ji Kim
+  image: /static/img/members/unknownGirl.png
+  #position: Undergraduate Student
+  #email: guswl1414@gmail.com
+  description: "**Name** : Hyeon Ji Kim
+
+
+  **Position** : Undergraduate Student
+
+
+  **Research field** : 
+
+
+  **email** : guswl1414@gmail.com"
