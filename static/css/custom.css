@@ -25,16 +25,9 @@ body {
 
 */
 
-.navbar-default{
-
-/* default values
-padding: 10px 20px 10px;
-margin-left: -20px; 
-*/
-
-/* move Project name 10px left */
-   padding: 30px 30px 30px 30px;
-
+.navbar-default .navbar-brand { 
+  padding: 15px 15px; // your values
+  height: 50px; // your value
 }
 
 .navbar-default {
