@@ -1,5 +1,3 @@
----
----
 /*
 font change zone.... fuck...
 */
@@ -26,8 +24,8 @@ body {
 */
 
 .navbar-default .navbar-brand { 
-  padding: 15px 15px; // your values
-  height: 50px; // your value
+  padding: 0 15px; // your values
+  height: 80px; // your value
 }
 
 .navbar-default {
