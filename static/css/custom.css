@@ -8,9 +8,9 @@ font change zone.... fuck...
 body {
   /*padding-top: 80px;  80 50 40*/ 
   /*padding-top: 50px; /* this was to make it the same height as the navbar so there is no gap between navbar and header image -- changed back now though*/
-  padding-top: 150px
-  padding-top: 120px;
-  padding-bottom: 130px;
+  padding-top: 60px
+  padding-top: 40px;
+  padding-bottom: 30px;
 }
 
 /*
@@ -21,8 +21,6 @@ body {
   /*
   padding: 10px;
   margin-bottom: 30px;
-  border = 30
-  margin bottom = 30
 }
 
 */
@@ -30,8 +28,8 @@ body {
 
 .navbar-default {
   background-color: #000000;
-  border: 80 !important;
-  margin-bottom: 80 !important;
+  border: 200 !important;
+  margin-bottom: 30 !important;
   font-size : 35px;
 }
 
