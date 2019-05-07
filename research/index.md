@@ -20,7 +20,7 @@ group: research
 <br><br>
 
 ## Sensor & Actuator
-<img class="img-responsive center-block" src="/static/img/research/sensor_actu.png" alt="Sensor" width="40%" height="40%">
+<img class="img-responsive center-block" src="/static/img/research/sensor_actu.png" alt="Sensor" width="70%" height="70%">
 
 #### 본 연구실에서는 생체 정보 계측을 위한 나노 바이오 센서 및 광센서를 개발과 이를 활용한 Actuator 를 개발하고 있다.
 #### 최근에 개발한 센서로는 Strain sensor 등이 있다. 
@@ -28,7 +28,7 @@ group: research
 <br><br>
 
 ## IoT System
-<img class="img-responsive center-block" src="/static/img/research/iot_sys.png" alt="IoT system" width="40%" height="40%">
+<img class="img-responsive center-block" src="/static/img/research/iot_sys.png" alt="IoT system" width="50%" height="50%">
 
 #### 본 연구실에서는 다중 센서 / 다양한 광 기기들의 연결을 통하여 IoT (Internet Of Things) 기술을 적용하고자 하고 있다.
 #### 이를 통해 다중 센서간에 상호 작용을 하는 Multi-Agent 시스템, 광 기기와의 연결을 통한 자동화 시스템, 이들을 통합 관리하는 플랫폼을 개발 / 연구하고자 한다.
