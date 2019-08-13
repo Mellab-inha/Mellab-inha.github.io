@@ -19,6 +19,10 @@
   link: "/publications"
   group: publications
 
+- name: news
+  link: "/news"
+  group: news
+
 - name: Gallery
   link: "/gallery"
   group: gallery
