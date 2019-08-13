@@ -19,9 +19,9 @@
   link: "/publications"
   group: publications
 
-#- name: Gallery
-#  link: "/gallery"
-#  group: gallery
+- name: Gallery
+  link: "/gallery"
+  group: gallery
 
 - name: Contact
   link: "/contact"

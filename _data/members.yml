@@ -165,22 +165,7 @@
 
 
   **email** : "
-
-- name: Kyo Sik Min
-  image: /static/img/members/MS.jpeg
-  #position: Undergraduate Student
-  #email: alsrytlr@gmail.com 
-  description: "**Name** : Kyo Sik Min
-
-
-  **Position** : Undergraduate Student
-
-
-  **Research field** : Plasma
-
-
-  **email** : forestcloud95@gmail.com"
-
+  
 - name: Gi Hun Lee
   image: /static/img/members/Under_Gihun.jpeg
   #position: Undergraduate Student
