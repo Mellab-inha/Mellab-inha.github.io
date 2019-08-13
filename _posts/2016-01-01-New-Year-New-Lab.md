@@ -1,8 +1,8 @@
 ---
 title: New Year, New Lab!
-author: Eli Zunder
+author: Hyeon Woo Jeong
 layout: post
-group: gallery
+group: news
 ---
  <img src="/static/img/news/MR5_2220_empty.jpg" alt="MR5 2220 empty" class="img-responsive">
 

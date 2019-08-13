@@ -1,6 +1,6 @@
 ---
 title: Kristen Joins the Lab!
-author: Eli Zunder
+author: Hyeon Woo Jeong
 layout: post
 group: news
 ---
