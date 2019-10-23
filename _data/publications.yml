@@ -1,6 +1,5 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 
-
 - citation: '**Dong-Jin Lee**, **Dae Yu Kim** 
 
 
@@ -30,6 +29,7 @@ LASERS IN MEDICAL SCIENCE , 2019'
 Paper-Based, Hand-Painted Strain Sensor Based on ITO Nanoparticle Channels for Human Motion Monitoring
 
 IEEE ACCESS , 7 , pp. 77200~77207 , 2019'
+
   date: 2019
   image: '/static/img/pub/DJLee_2019_Paper_Based.png'
   #pmid: 30488272
