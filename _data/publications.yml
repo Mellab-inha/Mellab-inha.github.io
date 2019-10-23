@@ -1,15 +1,40 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
-- citation: '**Hang Chan Jo**, **Dae Yu Kim** 
 
+
+- citation: '**Dong-Jin Lee**, **Dae Yu Kim** 
+
+Photobiomodulation Therapy in Mice with Chronic Cerebral Hypoperfusion Using Application-Specific Near-Infrared Light-Emitting Diode System
+
+ransactions on Electrical and Electronic Materials , 2019'
+
+  date: 2019
+  image: '/static/img/pub/DJLee_19_photo_.png'
+  #pmid: 30488272
+  pdf: '/static/pdf/Lee2019_Article_PhotobiomodulationTherapyInMic.pdf'
+
+
+- citation: '**Hang Chan Jo**, **Dae Yu Kim** 
 
 Observations of in vivo laser tissue ablation in animal models with different chromophores on the skin and modulating duration per laser exposure  
 
-
-LASERS IN MEDICAL SCIENCE , 2018'
-  date: 2018
+LASERS IN MEDICAL SCIENCE , 2019'
+  date: 2019
   image: '/static/img/pub/10103_2018_2693_Fig1_HTML.png'
   pmid: 30488272
   pdf: '/static/pdf/Jo-Kim2018_Article_ObservationsOfInVivoLaserTissu.pdf'
+
+
+- citation: '**Dong-Jin Lee**, **Dae Yu Kim** 
+
+Paper-Based, Hand-Painted Strain Sensor Based on ITO Nanoparticle Channels for Human Motion Monitoring
+
+IEEE ACCESS , 7 , pp. 77200~77207 , 2019'
+
+  date: 2019
+  image: '/static/img/pub/DJLee_2019_Paper_Based.png'
+  #pmid: 30488272
+  pdf: '/static/pdf/DJLee_2019_Paper_Based.pdf'
+
 
 
 - citation: 'Yoo YS, Whang WJ, Byun YS, Piao JJ, **Kim DY**, Joo CK, Yoon G. 

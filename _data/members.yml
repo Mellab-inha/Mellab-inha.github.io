@@ -151,21 +151,7 @@
 
   **email** : qhsh9713@gmail.com"
 
-- name: Yeon Ju Seo
-  image: /static/img/members/YJ.jpg
-  #position: Undergraduate Student
-  #email: 
-  description: "**Name** : Yeon Ju Seo
 
-
-  **Position** : Undergraduate Student
-
-
-  **Research field** : 
-
-
-  **email** : "
-  
 - name: Gi Hun Lee
   image: /static/img/members/Under_Gihun.jpeg
   #position: Undergraduate Student
@@ -195,18 +181,3 @@
 
 
   **email** : hotof123@naver.com"
-
-- name: Hyeon Ji Kim
-  image: /static/img/members/unknownGirl.png
-  #position: Undergraduate Student
-  #email: guswl1414@gmail.com
-  description: "**Name** : Hyeon Ji Kim
-
-
-  **Position** : Undergraduate Student
-
-
-  **Research field** : 
-
-
-  **email** : guswl1414@gmail.com"
