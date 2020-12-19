@@ -19,7 +19,7 @@
   link: "/publications"
   group: publications
 
-- name: news
+- name: News
   link: "/news"
   group: news
 
