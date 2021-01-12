@@ -133,7 +133,7 @@
   description: "**Name** : Seok Hwan Jeong
 
 
-  **Position** : Undergraduated Student
+  **Position** : Undergraduate Student
 
 
   **email** : canada5709@naver.com
@@ -146,7 +146,7 @@
   description: '**Name** : Yea Ji Mang
 
 
-  **Position** : Undergraduated Student
+  **Position** : Undergraduate Student
 
 
   **email** : yeajimang@naver.com
@@ -154,12 +154,12 @@
 
 - name: Jeong Min Kim 
   image: /static/img/members/unknownMan.jpg
-  #position: Undergraduated Student
+  #position: Undergraduate Student
   #email: 
   description: "**Name** : Jeong Min Kim
 
 
-  **Position** : Undergraduated Student
+  **Position** : Undergraduate Student
 
 
   **email** : 12171372@inha.edu
@@ -172,7 +172,7 @@
   description: '**Name** : Young Gwang Choi
 
 
-  **Position** : Undergraduated Student
+  **Position** : Undergraduate Student
 
 
   **email** : choi0kwang@gmail.com
@@ -181,7 +181,7 @@
 
 - name: Gyu Won Lee
   image: /static/img/members/unknownGirl.png
-  #position: Undergraduated Student
+  #position: Undergraduate Student
   #email: 
   description: '**Name** : Gyu Won Lee
 
