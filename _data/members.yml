@@ -105,6 +105,7 @@
 
 
   **email** : habibripon69bd@gmail.com
+  '
 
 - name: Sung Yong Kim
   image: /static/img/members/unknownMan.jpg
@@ -115,13 +116,15 @@
 
   **Position** : Ph.D Student
 
+  
   **Job** : Professional Engineer Information Communication
 
 
   **Research field** : loT Sensors
 
 
-  **email** : "
+  **email** : 
+  "
 
 - name: Seok Hwan Jeong
   image: /static/img/members/unknownMan.jpg
@@ -134,6 +137,7 @@
 
 
   **email** : canada5709@naver.com
+  "
 
 - name: Yea Ji Mang
   image: /static/img/members/unknownGirl.jpg
@@ -146,6 +150,7 @@
 
 
   **email** : yeajimang@naver.com
+  "
 
 - name: Kim Jeong Min
   image: /static/img/members/unknownMan.jpg
@@ -158,6 +163,7 @@
 
 
   **email** : 12171372@inha.edu
+  "
 
 - name: Young Gwang Choi
   image: /static/img/members/unknownMan.jpg
@@ -170,6 +176,8 @@
 
 
   **email** : choi0kwang@gmail.com
+  '
+
 
 - name: Gyu Won Lee
   image: /static/img/members/unknownGirl.jpg
@@ -182,7 +190,7 @@
 
 
   **email** : angelagyuwonlee@gmail.com
-
+  '
 
 ## Alumni
 
@@ -197,6 +205,8 @@
 
 
   **Job** : Samsung LSI
+  '
+
 
 - name: Su Keun Oh
   image: /static/img/members/SGSG.jpeg
@@ -209,6 +219,7 @@
 
 
   **Job** : LG Siliconworks
+  '
 
 - name: Sung Hun Jung
   image: /static/img/members/JSH.jpeg
