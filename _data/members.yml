@@ -198,7 +198,7 @@
   image: /static/img/members/JH2.jpeg
   #position: M.S Student
   #email: ...
-  description: **Name** : Jun Hyuk Lee
+  description: '**Name** : Jun Hyuk Lee
 
 
   **Position** : M.S Student
@@ -212,7 +212,7 @@
   image: /static/img/members/SGSG.jpeg
   #position: M.S Student
   #email: ...
-  description: **Name** : Su Keun Oh
+  description: '**Name** : Su Keun Oh
 
 
   **Position** : M.S Student
@@ -225,7 +225,7 @@
   image: /static/img/members/JSH.jpeg
   #position: M.S Student
   #email: ...
-  description: **Name** : Sung Hun Jung
+  description: "**Name** : Sung Hun Jung
 
 
   **Position** : M.S Student
