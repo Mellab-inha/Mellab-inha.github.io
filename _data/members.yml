@@ -92,7 +92,7 @@
   **email** : "
 
 - name: Md Habibur Rahman
-  image: /static/img/members/unknownMan.jpg
+  image: /static/img/members/Rahman.jpg
   #position: Ph.D Student
   #email: 
   description: "**Name** : Md Habibur Rahman
@@ -127,7 +127,7 @@
   image: /static/img/members/unknownMan.jpg
   #position: Undergraduated Student
   #email: 
-  description: "**Name** : Sung Yong Kim
+  description: "**Name** : Seok Hwan Jeong
 
 
   **Position** : Undergraduated Student
@@ -136,7 +136,7 @@
   **email** : canada5709@naver.com
 
 - name: Yea Ji Mang
-  image: /static/img/members/unknownMan.jpg
+  image: /static/img/members/unknownGirl.jpg
   #position: Undergraduated Student
   #email: 
   description: "**Name** : Yea Ji Mang
@@ -172,7 +172,7 @@
   **email** : choi0kwang@gmail.com
 
 - name: Gyu Won Lee
-  image: /static/img/members/unknownMan.jpg
+  image: /static/img/members/unknownGirl.jpg
   #position: Undergraduated Student
   #email: 
   description: "**Name** : Gyu Won Lee
