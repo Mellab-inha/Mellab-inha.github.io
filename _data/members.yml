@@ -140,7 +140,7 @@
   "
 
 - name: Yea Ji Mang
-  image: /static/img/members/unknownGirl.jpg
+  image: /static/img/members/unknownGirl.png
   #position: Undergraduated Student
   #email: 
   description: '**Name** : Yea Ji Mang
@@ -166,7 +166,7 @@
   "
 
 - name: Young Gwang Choi
-  image: /static/img/members/unknownMan.jpg
+  image: /static/img/members/unknownGirl.png
   #position: Undergraduated Student
   #email: 
   description: **Name** : Young Gwang Choi
