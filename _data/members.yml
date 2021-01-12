@@ -139,7 +139,7 @@
   image: /static/img/members/unknownGirl.jpg
   #position: Undergraduated Student
   #email: 
-  description: "**Name** : Yea Ji Mang
+  description: **Name** : Yea Ji Mang
 
 
   **Position** : Undergraduated Student
@@ -151,7 +151,7 @@
   image: /static/img/members/unknownMan.jpg
   #position: Undergraduated Student
   #email: 
-  description: "**Name** : Kim Jeong Min
+  description: **Name** : Kim Jeong Min
 
 
   **Position** : Undergraduated Student
@@ -163,7 +163,7 @@
   image: /static/img/members/unknownMan.jpg
   #position: Undergraduated Student
   #email: 
-  description: "**Name** : Young Gwang Choi
+  description: **Name** : Young Gwang Choi
 
 
   **Position** : Undergraduated Student
@@ -175,7 +175,7 @@
   image: /static/img/members/unknownGirl.jpg
   #position: Undergraduated Student
   #email: 
-  description: "**Name** : Gyu Won Lee
+  description: **Name** : Gyu Won Lee
 
 
   **Position** : Undergraduated Student
@@ -190,7 +190,7 @@
   image: /static/img/members/JH2.jpeg
   #position: M.S Student
   #email: ...
-  description: "**Name** : Jun Hyuk Lee
+  description: **Name** : Jun Hyuk Lee
 
 
   **Position** : M.S Student
@@ -202,7 +202,7 @@
   image: /static/img/members/SGSG.jpeg
   #position: M.S Student
   #email: ...
-  description: "**Name** : Su Keun Oh
+  description: **Name** : Su Keun Oh
 
 
   **Position** : M.S Student
@@ -214,7 +214,7 @@
   image: /static/img/members/JSH.jpeg
   #position: M.S Student
   #email: ...
-  description: "**Name** : Sung Hun Jung
+  description: **Name** : Sung Hun Jung
 
 
   **Position** : M.S Student
@@ -226,7 +226,7 @@
   image: /static/img/members/HYBono.jpeg
   #position: M.S Student
   #email: qhsh9713@gmail.com
-  description: "**Name** : Hyeon Woo Jeong
+  description: **Name** : Hyeon Woo Jeong
 
 
   **Position** : M.S Student
