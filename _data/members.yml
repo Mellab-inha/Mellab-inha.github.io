@@ -105,13 +105,13 @@
 
 
   **email** : habibripon69bd@gmail.com
-  '
+  "
 
 - name: Sung Yong Kim
   image: /static/img/members/unknownMan.jpg
   #position: Ph.D Student
   #email: 
-  description: **Name** : Sung Yong Kim
+  description: '**Name** : Sung Yong Kim
 
 
   **Position** : Ph.D Student
@@ -124,7 +124,7 @@
 
 
   **email** : 
-  "
+  '
 
 - name: Seok Hwan Jeong
   image: /static/img/members/unknownMan.jpg
@@ -150,13 +150,13 @@
 
 
   **email** : yeajimang@naver.com
-  "
+  '
 
 - name: Kim Jeong Min
   image: /static/img/members/unknownMan.jpg
   #position: Undergraduated Student
   #email: 
-  description: **Name** : Kim Jeong Min
+  description: "**Name** : Kim Jeong Min
 
 
   **Position** : Undergraduated Student
@@ -169,7 +169,7 @@
   image: /static/img/members/unknownGirl.png
   #position: Undergraduated Student
   #email: 
-  description: **Name** : Young Gwang Choi
+  description: '**Name** : Young Gwang Choi
 
 
   **Position** : Undergraduated Student
