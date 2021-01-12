@@ -91,35 +91,100 @@
 
   **email** : "
 
-- name: Sung Hun Jung
-  image: /static/img/members/JSH.jpeg
-  #position: 
+- name: Md Habibur Rahman
+  image: /static/img/members/unknownMan.jpg
+  #position: Ph.D Student
   #email: 
-  description: "**Name** : Sung Hun Jung
+  description: "**Name** : Md Habibur Rahman
 
 
   **Position** : Ph.D Student
 
 
-  **Research field** : Computional Adaptive Optics / Raytracing/ Blood Vessel and Pressure
+  **Research field** : Deep Learning Based Optical Measurements
 
 
-  **email** : tjdgns3481@naver.com"
+  **email** : habibripon69bd@gmail.com
 
-- name: Su Keun Oh
-  image: /static/img/members/SGSG.jpeg
-  #position: M.S Student
-  #email: sky51208@gmail.com
-  description: "**Name** : Su Guen Oh
-
-
-  **Position** : M.S Student
+- name: Sung Yong Kim
+  image: /static/img/members/unknownMan.jpg
+  #position: Ph.D Student
+  #email: 
+  description: "**Name** : Sung Yong Kim
 
 
-  **Research field** : Adaptive Optics ( SLO / Aberrometer /Microscopy / Fundus )
+  **Position** : Ph.D Student
+
+  **Job** : Professional Engineer Information Communication
 
 
-  **email** : sky51208@gmail.com "
+  **Research field** : loT Sensors
+
+
+  **email** : "
+
+- name: Seok Hwan Jeong
+  image: /static/img/members/unknownMan.jpg
+  #position: Undergraduated Student
+  #email: 
+  description: "**Name** : Sung Yong Kim
+
+
+  **Position** : Undergraduated Student
+
+
+  **email** : canada5709@naver.com
+
+- name: Yea Ji Mang
+  image: /static/img/members/unknownMan.jpg
+  #position: Undergraduated Student
+  #email: 
+  description: "**Name** : Yea Ji Mang
+
+
+  **Position** : Undergraduated Student
+
+
+  **email** : yeajimang@naver.com
+
+- name: Kim Jeong Min
+  image: /static/img/members/unknownMan.jpg
+  #position: Undergraduated Student
+  #email: 
+  description: "**Name** : Kim Jeong Min
+
+
+  **Position** : Undergraduated Student
+
+
+  **email** : 12171372@inha.edu
+
+- name: Young Gwang Choi
+  image: /static/img/members/unknownMan.jpg
+  #position: Undergraduated Student
+  #email: 
+  description: "**Name** : Young Gwang Choi
+
+
+  **Position** : Undergraduated Student
+
+
+  **email** : choi0kwang@gmail.com
+
+- name: Gyu Won Lee
+  image: /static/img/members/unknownMan.jpg
+  #position: Undergraduated Student
+  #email: 
+  description: "**Name** : Gyu Won Lee
+
+
+  **Position** : Undergraduated Student
+
+
+  **email** : angelagyuwonlee@gmail.com
+
+
+## Alumni
 
 - name: Jun Hyuk Lee
   image: /static/img/members/JH2.jpeg
@@ -131,10 +196,31 @@
   **Position** : M.S Student
 
 
-  **Research field** : 
+  **Job** : Samsung LSI
+
+- name: Su Keun Oh
+  image: /static/img/members/SGSG.jpeg
+  #position: M.S Student
+  #email: ...
+  description: "**Name** : Su Keun Oh
 
 
-  **email** : "
+  **Position** : M.S Student
+
+
+  **Job** : LG Siliconworks
+
+- name: Sung Hun Jung
+  image: /static/img/members/JSH.jpeg
+  #position: M.S Student
+  #email: ...
+  description: "**Name** : Sung Hun Jung
+
+
+  **Position** : M.S Student
+
+
+  **Job** : "
 
 - name: Hyeon Woo Jeong
   image: /static/img/members/HYBono.jpeg
@@ -146,10 +232,7 @@
   **Position** : M.S Student
 
 
-  **Research field** : -
-
-
-  **email** : qhsh9713@gmail.com"
+  **Job** : "
 
 
 
