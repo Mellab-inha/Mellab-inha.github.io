@@ -28,4 +28,26 @@
 - name: Sung Hun Jung
   image: /static/img/members/JSH.jpeg
   #position: M.S Student
+  #email: ...
+  description: "**Name** : Sung Hun Jung
+
+
+  **Position** : M.S Student
+
+
+  **Job** : ...
+
+
+- name: Hyeon Woo Jeong
+  image: /static/img/members/HYBono.jpeg
+  #position: M.S Student
+  #email: qhsh9713@gmail.com
+  description: "**Name** : Hyeon Woo Jeong
+
+
+  **Position** : M.S Student
+
+
+  **Job** : ...
+
 
