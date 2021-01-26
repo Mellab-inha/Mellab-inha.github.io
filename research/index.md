@@ -1,5 +1,5 @@
 ---
-title: Research in the Zunder Lab
+title: Research in the MEL Lab
 layout: default
 group: research
 ---
