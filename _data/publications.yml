@@ -1,61 +1,63 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
-- citation: '**Dong-Jin Lee**, **Dae Yu Kim**  
+- citation: '**Kim MH**, Kim DH, Yang SG, **Kim DY**
 
 
-Improved effect of a mitochondria-targeted antioxidant on hydrogen peroxide-induced oxidative stress in human retinal pigment epithelium cells, 2020'
-  date: 2020
+Improved effect of a mitochondria-targeted antioxidant on hydrogen peroxide-induced oxidative stress in human retinal pigment epithelium cells
+
+
+BMC Pharmacol Toxicol,2021'
+  date: 2021
   image: '/static/img/pub/improved-effect.PNG'
   pmid: 33472699
   #pdf: '/static/pdf/antioxidative-effects.pdf'
 
 
-- citation: 'Kim MH, Kim DH, Yang SG, **Kim DY**
+- citation: '**Kim MH**, Kwon SY, Woo SY, Seo WD, **Kim DY**
 
 
-Antioxidative Effects of Chrysoeriol via Activation of the Nrf2 Signaling Pathway and Modulation of Mitochondrial Function, 2020'
-  date: 2020
+Antioxidative Effects of Chrysoeriol via Activation of the Nrf2 Signaling Pathway and Modulation of Mitochondrial Function
+
+
+Molecules,2021'
+  date: 2021
   image: '/static/img/pub/antioxidative.PNG'
   pmid: 33435366
   pdf: '/static/pdf/antioxidative-effects.pdf'
 
 
-- citation: 'Kim MH, Kwon SY, Woo SY, Seo WD, **Kim DY**
+- citation: '**Lee DJ**, **Kim DY**
 
 
-Corrigendum to "Impact of peripheral optical properties induced by orthokeratology lens use on myopia progression" [Heliyon 6 (4), (April 2020) Article e03642], 2020'
-  date: 2020
-  image: '/static/img/pub/co2222.PNG'
-  pmid: 32775717
-  pdf: '/static/pdf/corrigendum-to-impact.pdf'
+UV Irradiation-Induced SERS Enhancement in Randomly Distributed Au Nanostructures
 
 
-- citation: '**Kim DY**, Yoo YS, Byun Ys, Ji Q, Chung IK, Whang WJ, Park MR, Kim HS, Na KS, Joo CK, Yoon G 
-
-
-UV Irradiation-Induced SERS Enhancement in Randomly Distributed Au Nanostructures, 2020'
+Sensors(Basel),2020'
   date: 2020
   image: '/static/img/pub/uv-irradiation-indueced.PNG'
   pmid: 32660155
   pdf: '/static/pdf/uv-irradiation.pdf'
 
 
-- citation: '**Lee DY**, **KIM DY**  
+- citation: 'Yoo YS, **Kim DY**, Byun YS, Ji Q, Chung IK, Whang WJ, Park MR, Kim HS, Na KS, Joo CK, Yoon G  
 
 
-Impact of peripheral optical properties induced by orthokeratology lens use on myopia progression, 2020'
+Impact of peripheral optical properties induced by orthokeratology lens use on myopia progression
+
+
+Heliyon,2020'
   date: 2020
   image: '/static/img/pub/impac-of-periphe.PNG'
   pmid: 32274428
   pdf: '/static/pdf/impact-of.pdf'
 
 
-- citation: '**Kim DY**, Yoo YS, Byun Ys, Ji Q, Chung IK, Whang WJ, Park MR, Kim HS, Na KS, Joo CK, Yoon G  
+- citation: '**Lee DJ**, **Kim DY**
 
 
 Hydrophobic Paper-Based SERS Sensor Using Gold Nanoparticles Arranged on Graphene Oxide Flakes
 
 
-Sensors , 2019'
+Sensors, 2019'
   date: 2019
   image: '/static/img/pub/djlee2019.png'
   #pmid: 30488272
@@ -68,7 +70,7 @@ Sensors , 2019'
 Correlation between light absorbance and skin color using fabricated skin phantoms with different colors
 
 
-Lasers in Medical Science , 2019'
+Lasers in Medical Science,2019'
   date: 2019
   image: '/static/img/pub/hcj_.png'
   #pmid: 30488272
@@ -80,7 +82,7 @@ Lasers in Medical Science , 2019'
 Photobiomodulation Therapy in Mice with Chronic Cerebral Hypoperfusion Using Application-Specific Near-Infrared Light-Emitting Diode System
 
 
-Transactions on Electrical and Electronic Materials , 2019'
+Transactions on Electrical and Electronic Materials,2019'
   date: 2019
   image: '/static/img/pub/DJLee_19_photo_.png'
   #pmid: 30488272
@@ -93,7 +95,7 @@ Transactions on Electrical and Electronic Materials , 2019'
 Photobiomodulation Therapy in Mice with Chronic Cerebral Hypoperfusion Using Application-Specific Near-Infrared Light-Emitting Diode System
 
 
-Transactions on Electrical and Electronic Materials , 2019'
+Transactions on Electrical and Electronic Materials,2019'
   date: 2019
   image: '/static/img/pub/DJLee_19_photo_.png'
   #pmid: 30488272
@@ -106,7 +108,7 @@ Transactions on Electrical and Electronic Materials , 2019'
 Observations of in vivo laser tissue ablation in animal models with different chromophores on the skin and modulating duration per laser exposure  
 
 
-LASERS IN MEDICAL SCIENCE , 2019'
+LASERS IN MEDICAL SCIENCE,2019'
   date: 2019
   image: '/static/img/pub/10103_2018_2693_Fig1_HTML.png'
   pmid: 30488272
@@ -119,7 +121,7 @@ LASERS IN MEDICAL SCIENCE , 2019'
 Paper-Based, Hand-Painted Strain Sensor Based on ITO Nanoparticle Channels for Human Motion Monitoring
 
 
-IEEE ACCESS , 7 , pp. 77200~77207 , 2019'
+IEEE ACCESS, 7, pp. 77200~77207,2019'
 
   date: 2019
   image: '/static/img/pub/DJLee_2019_Paper_Based.png'
