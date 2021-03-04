@@ -60,20 +60,20 @@
 
   '
 
-- name: Myung hee Kim 
-  image: /static/img/members/DrKimProfile.jpeg
+- name: Hyun ji Shin
+  image: /static/img/members/unknownGirl.png
   #position: ...
-  #email: 318560@inha.ac.kr
-  description: "**Name** : Myung hee Kim 
+  #email: 
+  description: "**Name** : Hyun ji Shin
 
 
   **Position** : Postdoc
 
 
-  **Research field** : Ocular degeneration / chemical genomics / tissue engineering / stem cell research
+  **Research field** : Sensors / Optics
 
 
-  **email** : 318560@inha.ac.kr
+  **email** : 
   "
 
 - name: Hang Chan Jo
