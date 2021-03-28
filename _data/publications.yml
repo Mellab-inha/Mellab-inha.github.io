@@ -1,4 +1,16 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+- citation: '**SungHun Jung**, **Dae Yu Kim**
+
+
+Noninvassive Flow Monitoring in Simple Flow Phantom Using Resistive Strain Sensors
+
+
+Sensors, 2021'
+  date: 2021
+  image: '/static/img/pub/noninvasive.PNG'
+  pmid: 
+  pdf: '/static/pdf/sensors-21-02201-v2.pdf'
+
 - citation: '**Kim MH**, Kim DH, Yang SG, **Kim DY**
 
 
