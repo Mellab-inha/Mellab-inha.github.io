@@ -4,6 +4,21 @@ layout: default
 group: research
 ---
 
+## Human Vehicle Interface
+
+<img class="img-responsive center-block" src="/static/img/research/research_doctorSHin.png" alt="Doctor Shin" width="40%" height="40%">
+
+<br>
+
+#### Human Vehicle Interface (HVI) 는 운전자로부터 생체 정보 및 모션 등을 인식, 추출하고 정보를 제공하여 미래 자동차와의 각종 상호작용을 가능케 한다. 대표적으로 운전자 부주의 경보(DSW; Driver State Warning), Gesture control, 챠량용 인포테인먼트 (IVI, In-Vehicle Infortainment) 시스템 등이 있다.
+
+<br>
+
+#### 본 연구실에서는 적외선 감지 시스템을 연구하여 동공 추적을 통한 부주의 경보 HVI 시스템을 개발하고자 한다
+
+
+<br><br>
+
 ## Medical Imaging by Biomedical Optics
 
 <img class="img-responsive center-block" src="/static/img/research/medicalDevice.png" alt="Medical device" width="40%" height="40%">
