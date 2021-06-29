@@ -6,7 +6,7 @@ group: research
 
 ## Human Vehicle Interface
 
-<img class="img-responsive center-block" src="/static/img/research/research_doctorSHin.png" alt="Doctor Shin" width="40%" height="40%">
+<img class="img-responsive center-block" src="/static/img/research/research_doctorSHin.PNG" alt="Doctor Shin" width="40%" height="40%">
 
 <br>
 
