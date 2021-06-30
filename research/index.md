@@ -6,6 +6,21 @@ group: research
 
 ## Human Vehicle Interface
 
+<img class="img-responsive center-block" src="/static/img/research/LiDAR.jpg" alt="LiDAR" width="40%" height="40%">
+
+<br>
+
+#### LiDAR는 레이저 펄스를 발사하고, 대상 물체에서 반사되어 돌아오는 빛을 관측하여 물체의 위치좌표를 측정하고 물체의 형상을 이미지화하는 장치이다. 항공 또는 위성에 탑재되어 지형측량에 사용되며 자율이동로봇, 자율주행 자동차 등에 활용된다.
+
+<br>
+
+#### 본 연구실에서는 외부 광원을 이용한 고해상도 융합 이미징 시스템 개발을 진행중이며, 나아가 LiDAR를 통한 고해상도 3차원 영상 구현을 목표로 알고리즘 및 응용소프트웨어 그리고 광학 센서를 개발하고자 한다. 
+
+
+<br><br>
+
+## Human Vehicle Interface
+
 <img class="img-responsive center-block" src="/static/img/research/research_doctorSHin.PNG" alt="Doctor Shin" width="40%" height="40%">
 
 <br>
