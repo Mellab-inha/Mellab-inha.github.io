@@ -4,7 +4,7 @@ layout: default
 group: research
 ---
 
-## Human Vehicle Interface
+## LiDAR
 
 <img class="img-responsive center-block" src="/static/img/research/LiDAR.jpg" alt="LiDAR" width="40%" height="40%">
 
