@@ -46,7 +46,7 @@
   image: /static/img/members/DrLeeProfile.jpeg
   #position: ...
   #email: voinaimir82@gmail.com
-  description: '**Name** : Dong Jin Lee
+  description: "**Name** : Dong Jin Lee
 
 
   **Position** : Postdoc
@@ -56,9 +56,8 @@
 
 
   **email** : voinaimir82@gmail.com
+  "
 
-
-  '
 
 - name: Hyun ji Shin
   image: /static/img/members/unknownGirl.png
@@ -74,7 +73,7 @@
 
 
   **email** : 
-  '
+  "
 
 
 - name: Hang Chan Jo
@@ -90,15 +89,15 @@
   **Research field** : 
 
 
-  **email** : "
-'
+  **email** : 
+"
 
 
 - name: Sung Yong Kim
   image: /static/img/members/unknownMan.jpg
   #position: Ph.D Student
   #email: 
-  description: '**Name** : Sung Yong Kim
+  description: "**Name** : Sung Yong Kim
 
 
   **Position** : Ph.D Student
@@ -111,7 +110,7 @@
 
 
   **email** : 
-  '
+  "
 
 
 - name: Jeong Min Kim 
@@ -125,7 +124,7 @@
 
 
   **email** : 12171372@inha.edu
-  '
+  "
 
 
 - name: Jong Min Kim
@@ -139,7 +138,7 @@
 
 
   **email** : gcompass1222@gmail.com
-  '
+  "
 
 
 - name: Hye In Kang
@@ -153,7 +152,7 @@
 
 
   **email** : hyeinkang@inha.edu
-  '
+  "
 
 
 - name: Jun Hwan Lee
@@ -167,4 +166,4 @@
 
 
   **email** : dlwnsghks98@naver.com
-  '
+  "
