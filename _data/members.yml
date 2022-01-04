@@ -74,7 +74,8 @@
 
 
   **email** : 
-  "
+  '
+
 
 - name: Hang Chan Jo
   image: /static/img/members/unknownMan.jpg
@@ -90,6 +91,7 @@
 
 
   **email** : "
+'
 
 
 - name: Sung Yong Kim
@@ -123,7 +125,7 @@
 
 
   **email** : 12171372@inha.edu
-  "
+  '
 
 
 - name: Jong Min Kim
@@ -139,6 +141,7 @@
   **email** : gcompass1222@gmail.com
   '
 
+
 - name: Hye In Kang
   image: /static/img/members/unknownGirl.jpg
   #position: Undergraduate Student
@@ -150,7 +153,8 @@
 
 
   **email** : hyeinkang@inha.edu
-  "
+  '
+
 
 - name: Jun Hwan Lee
   image: /static/img/members/unknownMan.jpg
