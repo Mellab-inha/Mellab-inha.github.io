@@ -91,21 +91,6 @@
 
   **email** : "
 
-- name: Md Habibur Rahman
-  image: /static/img/members/Rahman.jpg
-  #position: Ph.D Student
-  #email: 
-  description: "**Name** : Md Habibur Rahman
-
-
-  **Position** : Ph.D Student
-
-
-  **Research field** : Deep Learning Based Optical Measurements
-
-
-  **email** : habibripon69bd@gmail.com
-  "
 
 - name: Sung Yong Kim
   image: /static/img/members/unknownMan.jpg
@@ -126,31 +111,6 @@
   **email** : 
   '
 
-- name: Seok Hwan Jeong
-  image: /static/img/members/unknownMan.jpg
-  #position: Undergraduated Student
-  #email: 
-  description: "**Name** : Seok Hwan Jeong
-
-
-  **Position** : Undergraduate Student
-
-
-  **email** : canada5709@naver.com
-  "
-
-- name: Yea Ji Mang
-  image: /static/img/members/unknownGirl.png
-  #position: Undergraduated Student
-  #email: 
-  description: '**Name** : Yea Ji Mang
-
-
-  **Position** : Undergraduate Student
-
-
-  **email** : yeajimang@naver.com
-  '
 
 - name: Jeong Min Kim 
   image: /static/img/members/unknownMan.jpg
@@ -164,3 +124,43 @@
 
   **email** : 12171372@inha.edu
   "
+
+
+- name: Jong Min Kim
+  image: /static/img/members/unknownMan.jpg
+  #position: Undergraduate Student
+  #email: 
+  description: "**Name** : Jong Min Kim
+
+
+  **Position** : Undergraduate Student
+
+
+  **email** : gcompass1222@gmail.com
+  '
+
+- name: Hye In Kang
+  image: /static/img/members/unknownGirl.jpg
+  #position: Undergraduate Student
+  #email: 
+  description: "**Name** : Hye In Kang
+
+
+  **Position** : Undergraduate Student
+
+
+  **email** : hyeinkang@inha.edu
+  "
+
+- name: Jun Hwan Lee
+  image: /static/img/members/unknownMan.jpg
+  #position: Undergraduate Student
+  #email: 
+  description: "**Name** : Jun Hwan Lee
+
+
+  **Position** : Undergraduate Student
+
+
+  **email** : dlwnsghks98@naver.com
+  '
