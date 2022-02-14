@@ -61,7 +61,7 @@
 
 - name: Hyun ji Shin
   image: /static/img/members/unknownGirl.png
-  #position: ...
+  #position: Postdoc
   #email: 
   description: "**Name** : Hyun ji Shin
 
@@ -75,11 +75,12 @@
   **email** : 
   "
 
+
 - name: Seullee Lee
   image: /static/img/members/unknownGirl.png
-  #position: ...
+  #position: Postdoc
   #email: kls1116@inha.ac.kr
-  description:"**Name** : Seullee Lee
+  description: "**Name** : Seullee Lee
 
  **Position** : Postdoc
 
