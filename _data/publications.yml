@@ -1,4 +1,43 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+- citation: '**Dong-Jin Lee**, **Dae Yu Kim**
+
+
+3D hotspot matrix of Au nanoparticles on Au island film with a spacer layer of dithiol molecules for highly sensitive surface-enhanced Raman spectroscopy
+
+
+Sci Rep. 2021'
+  date: 2021
+  image: '/static/img/pub/41598_2021_1742_Fig1_HTML.PNG'
+  pmid: 34789757
+  pdf: '/static/pdf/s41598-021-01742-0.pdf'
+
+
+- citation: '**Rahman MH**, **Jeong HW**, **Dae Yu Kim**
+
+
+Automatic Quantification of Anterior Lamina Cribrosa Structures in Optical Coherence Tomography Using a Two-Stage CNN Framework
+
+
+Sensors, 2021'
+  date: 2021
+  image: '/static/img/pub/sensors-21-05383-g001.PNG'
+  pmid: 34450823
+  pdf: '/static/pdf/sensors-21-05383-v2.pdf'
+
+
+- citation: '**Hang-chan Jo**, **Hyeonwoo Jeong**, **Junhyuk Lee**, **Kyung-Sun Na**, **Dae Yu Kim**
+
+
+Quantification of Blood Flow Velocity in the Human Conjunctival Microvessels Using Deep Learning-Based Stabilization Algorithm
+
+
+Sensors, 2021'
+  date: 2021
+  image: '/static/img/pub/sensors-21-03224-g001.PNG'
+  pmid: 34066590
+  pdf: '/static/pdf/sensors-21-03224-v2.pdf'
+
+
 - citation: '**SungHun Jung**, **Dae Yu Kim**
 
 
@@ -8,7 +47,7 @@ Noninvassive Flow Monitoring in Simple Flow Phantom Using Resistive Strain Senso
 Sensors, 2021'
   date: 2021
   image: '/static/img/pub/noninvasive.PNG'
-  pmid: 
+  pmid: 33801114
   pdf: '/static/pdf/sensors-21-02201-v2.pdf'
 
 - citation: '**Kim MH**, Kim DH, Yang SG, **Kim DY**
