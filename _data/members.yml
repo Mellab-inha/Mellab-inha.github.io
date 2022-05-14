@@ -93,6 +93,23 @@
 "
 
 
+- name: Myeong Ju Son
+  image: /static/img/members/unknownGirl.png
+  #position: Postdoc
+  #email: 
+  description: "**Name** : Myeong Ju Son
+
+
+ **Position** : Postdoc
+
+
+  **Research field** : 
+
+
+  **email** : 
+"
+
+
 - name: Hang Chan Jo
   image: /static/img/members/unknownMan.jpg
   #position: Ph.D Student
