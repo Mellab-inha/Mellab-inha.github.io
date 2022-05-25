@@ -1,11 +1,41 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+- citation: '**Hyen Ji Shin**, **Dae Yu Kim**
+
+
+Rotating Gate-Driven Solution-Processed Triboelectric Transistors
+
+
+Sensors, 2022'
+  date: 2022
+  image: '/static/img/pub/20220525_134546576.png'
+  pmid: 35590998
+  pdf: '/static/pdf/sensors-22-03309.pdf'
+
+
+- citation: '**Dong-Jin Lee**, **Dae Yu Kim**
+
+
+
+- citation: '**Myeong Ju Son**, **Dae Yu Kim**, **Hang Chan Jo**
+
+
+Diease Modeling of Rare Neurological Disorders in Zebrafish
+
+
+Int J Mol Sci, 2022'
+  date: 2022
+  image: '/static/img/pub/20220525_134044251.png'
+  pmid: 35409306
+  pdf: '/static/pdf/ijms-23-03946-v3.pdf'
+
+
 - citation: '**Dong-Jin Lee**, **Dae Yu Kim**
 
 
 3D hotspot matrix of Au nanoparticles on Au island film with a spacer layer of dithiol molecules for highly sensitive surface-enhanced Raman spectroscopy
 
 
-Sci Rep. 2021'
+Sci Rep, 2021'
   date: 2021
   image: '/static/img/pub/41598_2021_1742_Fig1_HTML.gif'
   pmid: 34789757
