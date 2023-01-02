@@ -127,6 +127,23 @@
 "
 
 
+- name: Hang Chan Jo
+  image: /static/img/members/unknownMan.jpg
+  #position: Ph.D Student
+  #email: 
+  description: "**Name** : Hang Chan Jo
+
+
+  **Position** : Ph.D Student
+
+
+  **Research field** : 
+
+
+  **email** : 
+"
+
+
 - name: Sung Yong Kim
   image: /static/img/members/unknownMan.jpg
   #position: Ph.D Student
@@ -149,15 +166,43 @@
 
 - name: Jeong Min Kim 
   image: /static/img/members/unknownMan.jpg
-  #position: Undergraduate Student
+  #position: M.S Student
   #email: 
   description: "**Name** : Jeong Min Kim
 
 
-  **Position** : Undergraduate Student
+  **Position** : M.S Student
 
 
   **email** : 12171372@inha.edu
+  "
+
+
+- name: Han Kyung Kim
+  image: /static/img/members/unknownMan.jpg
+  #position: M.S Student
+  #email: 
+  description: "**Name** : Han Kyung Kim
+
+
+  **Position** : M.S Student
+
+
+  **email** : 12173815@inha.edu
+"
+
+
+- name: Jae Young Kang
+  image: /static/img/members/unknownGirl.png
+  #position: M.S Student
+  #email: 
+  description: "**Name** : Jae Young Kang
+
+
+  **Position** : M.S Student
+
+
+  **email** : kjyoung625@inha.ac.kr
   "
 
 
