@@ -1,15 +1,15 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
--citation: '**Dong Jin Lee**, **Dae Yu Kim**
+- citation: '**Dong Jin Lee**, **Dae Yu Kim**
 
 
 Enhanced Electrical Injury Using Triangular Interdigitated Electrodes for Catheter-Based Irreversible Electroporation
 
 
 Applied Sciences 2023'
- date: 2023
- image: '/static/img/pub/applsci-13-08455-g001-550.png'
- pmid: 21345
- pdf: '/static/pdf/applsci-13-08455.pdf'
+  date: 2023
+  image: '/static/img/pub/applsci-13-08455-g001-550.png'
+  pmid: 21345
+  pdf: '/static/pdf/applsci-13-08455.pdf'
 
 
 - citation: '**Hyun Ji Shin**, **Dong Wook Kim**, **Jae Hoon Park**, **Dae Yu Kim**
