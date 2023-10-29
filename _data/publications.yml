@@ -1,4 +1,17 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+- citation: '**Hang Chan Jo**, **Dae Yu Kim**
+
+
+Automated Segmentation and Morphometry of Zebrafish Anterior Chamber OCT Scans
+
+
+Photonics 2023'
+  date: 2023
+  image: '/static/img/pub/Segmentation image.png'
+  pmid:
+  pdf: '/static/pdf/photonics-10-00957-v2.pdf'
+
+
 - citation: '**Dong Jin Lee**, **Dae Yu Kim**
 
 
