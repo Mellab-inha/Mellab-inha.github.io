@@ -62,3 +62,26 @@
 
   '
 
+- name: Hyun Ji Shin
+  image: /static/img/members/HJShin.jpg
+  #position: Postdoc
+  #email:
+  description: "**Name** : Hyun ji Shin
+
+
+  **Position** : Postdoc
+
+
+  '
+
+- name: Myeong Joo Son
+  image: /static/img/members/MJS.jpg
+  #position: Postdoc
+  #email: 
+  description: "**Name** : Myeong joo Son
+
+
+ **Position** : Postdoc
+
+
+  '
