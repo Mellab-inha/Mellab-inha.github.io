@@ -59,20 +59,37 @@
   "
 
 
-- name: Hyun Ji Shin
-  image: /static/img/members/HJShin.jpg
-  #position: Postdoc
-  #email:
-  description: "**Name** : Hyun ji Shin
+- name: Cheoljin Hwang
+  image: /static/img/members/unknownMan.jpg
+  #position: ...
+  #email: 
+  description: "**Name** : Cheoljin Hwang
 
 
   **Position** : Postdoc
 
 
-  **Research field** : Sensors / Optics
+  **Research field** : Sensors / Actuators
 
 
-  **email** :
+  **email** : 
+  "
+
+
+- name: Jihoon Lee
+  image: /static/img/members/unknownGirl.png
+  #position: ...
+  #email: 
+  description: "**Name** : Jihoon Lee
+
+
+  **Position** : Postdoc
+
+
+  **Research field** : Biomedical / Aerospace medical
+
+
+  **email** : 
   "
 
 
@@ -90,23 +107,6 @@
 
 
   **email** : kls1116@inha.ac.kr
-"
-
-
-- name: Myeong Joo Son
-  image: /static/img/members/MJS.jpg
-  #position: Postdoc
-  #email: 
-  description: "**Name** : Myeong joo Son
-
-
- **Position** : Postdoc
-
-
-  **Research field** : Aerospace medical / Medical optics
-
-
-  **email** : mjson@inha.ac.kr
 "
 
 
