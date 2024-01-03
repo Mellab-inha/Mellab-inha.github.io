@@ -60,7 +60,7 @@
 
 
 - name: Cheoljin Hwang
-  image: /static/img/members/unknownMan.jpg
+  image: /static/img/members/CJHwang.png
   #position: ...
   #email: 
   description: "**Name** : Cheoljin Hwang
@@ -69,15 +69,15 @@
   **Position** : Postdoc
 
 
-  **Research field** : Sensors / Actuators
+  **Research field** : Low power consuming oxide semiconductor
 
 
-  **email** : 
+  **email** : aki@inha.ac.kr
   "
 
 
 - name: Jihoon Lee
-  image: /static/img/members/unknownGirl.png
+  image: /static/img/members/JHLee.jpg
   #position: ...
   #email: 
   description: "**Name** : Jihoon Lee
@@ -86,7 +86,7 @@
   **Position** : Postdoc
 
 
-  **Research field** : Biomedical / Aerospace medical
+  **Research field** : neuroscience,pharmacology
 
 
   **email** : 
@@ -125,26 +125,6 @@
 
   **email** : 
 "
-
-
-- name: Sung Yong Kim
-  image: /static/img/members/unknownMan.jpg
-  #position: Ph.D Student
-  #email: 
-  description: "**Name** : Sung Yong Kim
-
-
-  **Position** : Ph.D Student
-
- 
-  **Job** : 정보통신기술사 (Professional Engineer Information Communication)
-
-
-  **Research field** : loT Sensors
-
-
-  **email** : 
-  "
 
 
 - name: Jeong Min Kim 
