@@ -15,7 +15,7 @@ group: contact
 <div class="col-md-4">
 Inha Univ.<br>Hi-Tech Center 301 / 333<br>INHA UNIVERSITY, 100 Inha-ro, Michuhol-gu, Incheon 22212, KOREA <br>
 Office : Hi-Tech Center 631<br>
-contact email: inhabellab@gmail.com <br>
+contact email: dyukim@inha.ac.kr <br>
 </div>
 
 </div>
