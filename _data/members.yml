@@ -142,7 +142,7 @@
 
 
 - name: Han Kyung Kim
-  image: /static/img/members/unknownMan.jpg
+  image: /static/img/members/HK.jpg
   #position: M.S Student
   #email: 
   description: "**Name** : Han Kyung Kim
@@ -155,30 +155,17 @@
 "
 
 
-- name: Jae Young Kang
-  image: /static/img/members/unknownGirl.png
+- name: Ji Hoon Seong
+  image: /static/img/members/unknownMan.jpg
   #position: M.S Student
   #email: 
-  description: "**Name** : Jae Young Kang
+  description: "**Name** : Ji Hoon Seong
 
 
   **Position** : M.S Student
 
 
-  **email** : kjyoung625@inha.edu
+  **email** : yeers@inha.edu
   "
 
-
-- name: Hye In Kang
-  image: /static/img/members/unknownGirl.png
-  #position: Undergraduate Student
-  #email: 
-  description: "**Name** : Hye In Kang
-
-
-  **Position** : Undergraduate Student
-
-
-  **email** : hyeinkang@inha.edu
-  "
 
