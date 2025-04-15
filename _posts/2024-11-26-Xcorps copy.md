@@ -7,4 +7,4 @@ group: news
 
  <img src="/static/img/news/Xcorps2024.png" alt="MR5 2220 empty" class="img-responsive">
 
-  2024년도 제 4회 X-corps Plus 페스티벌에서 김대유 교수님이 이끄는 Link in bio 팀이 보행자 사고 방지를 위한 UWB기반 보행자 위치 판별 시스템 개발발로 최우수상을 수상하였습니다.
+  2024년도 제 4회 X-corps Plus 페스티벌에서 김대유 교수님이 이끄는 Link in bio 팀이 보행자 사고 방지를 위한 UWB기반 보행자 위치 판별 시스템 개발로 최우수상을 수상하였습니다.
