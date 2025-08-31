@@ -134,7 +134,7 @@
   description: "**Name** : Jeong Min Kim
 
 
-  **Position** : M.S Student
+  **Position** : Ph.D Student
 
 
   **email** : 12171372@inha.edu
@@ -143,16 +143,16 @@
 
 - name: Han Kyung Kim
   image: /static/img/members/HK.jpg
-  #position: M.S Student
+  #position: Ph.D Student
   #email: 
   description: "**Name** : Han Kyung Kim
 
 
-  **Position** : M.S Student
+  **Position** : Ph.D Student
 
 
   **email** : hankkim@inha.edu
-"
+  "
 
 
 - name: Ji Hoon Seong
@@ -169,3 +169,29 @@
   "
 
 
+- name: Jong Moon Kim
+  image: /static/img/members/unknownMan.jpg
+  #position: M.S Student
+  #email: 
+  description: "**Name** : Jong Moon Kim
+
+
+  **Position** : M.S Student
+
+
+  **email** : kjm7224@inha.edu
+  "
+
+
+- name: Da bin Choi
+  image: /static/img/members/unknownMan.jpg
+  #position: M.S Student
+  #email: 
+  description: "**Name** : Da bin Choi
+
+
+  **Position** : M.S Student
+
+
+  **email** : dabin0606@inha.edu
+  "
