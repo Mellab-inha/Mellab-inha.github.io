@@ -93,23 +93,6 @@
   "
 
 
-- name: Seul lee Lee
-  image: /static/img/members/SeulIeeLee.png
-  #position: Postdoc
-  #email: kls1116@inha.ac.kr
-  description: "**Name** : Seul lee Lee
-
-
- **Position** : Postdoc
-
-
-  **Research field** : Optical fiber lasers / Optical filters / Optical fiber gratings / Optical biosensors
-
-
-  **email** : kls1116@inha.ac.kr
-"
-
-
 - name: Hang Chan Jo
   image: /static/img/members/unknownMan.jpg
   #position: Ph.D Student
