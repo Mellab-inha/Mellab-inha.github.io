@@ -1,4 +1,17 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+- citation: '**Ju Hyeon Kim**, **Chuiljin Hwang**, **Dae Yu Kim**
+
+
+Structurally Engineered All-Polymeric Microneedle Sensor for Highly Sensitive and Real-Time Monitoring of Glucose in Interstitial Fluids
+
+
+ACS SENSORS 2025'
+  date: 2025
+  image: '/static/img/pub/ACS Sensors.jpeg'
+  pmid:
+  pdf: '/static/pdf/2025 ACS Sensors.pdf'
+
+
 - citation: '**Jee Hoon Lee**, **Dae Yu Kim**
 
 
