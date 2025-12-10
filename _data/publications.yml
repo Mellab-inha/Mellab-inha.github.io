@@ -1,4 +1,29 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+- citation: '**Ju Hyeon Kim**, **Chuiljin Hwang**, **Jee Joon Lee**, **Hang Chan Jo**, **Dae Yu Kim**
+
+
+Antifouling All-Polymeric Microneedle Array for Long-Term Wearable ECG Monitoring
+
+Advanced Science 2025'
+  date: 2025
+  image: '/static/img/pub/advs.jpg'
+  pmid:
+  pdf: '/static/pdf/2025.11 Advanced Science.pdf'
+
+
+- citation: '**Dong-Jin Lee**, **Dae Yu Kim**
+
+
+Numerical Investigation of Microporous Insulation for Power Reduction in Zero-Heat-Flux Thermometry
+
+
+Micromachines 2025'
+  date: 2025
+  image: '/static/img/pub/micromachines.jpg'
+  pmid:
+  pdf: '/static/pdf/2025.11 micromachines.pdf'
+
+
 - citation: '**Ju Hyeon Kim**, **Chuljin Hwang**, **Dae Yu Kim**
 
 
