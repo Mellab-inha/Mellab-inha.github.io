@@ -5,7 +5,7 @@ layout: post
 group: news
 ---
 
-<img src="/static\img\news\xcorpsss.jpg" alt="MR5 2220 empty" class="img-responsive" style="display:block; margin:0 auto; width:60%; height:auto;">
+<img src="/static\img\pub\ACS Sensors.jpeg" alt="MR5 2220 empty" class="img-responsive" style="display:block; margin:0 auto; width:60%; height:auto;">
 
 본 연구실의 김주현 박사, 황철진 박사가 공동으로 연구한  센서 분야의 권위 있는 국제 학술지인 ACS Sensors 2025년도 호에 게재되었습니다.
 
