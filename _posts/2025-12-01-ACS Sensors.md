@@ -1,5 +1,5 @@
 ---
-title: 김주현·황철진 박사, 국제 학술지 ACS Sensors 논문 게재
+title: 황철진 박사, 국제 학술지 ACS Sensors 논문 게재
 author: Han Kyung Kim
 layout: post
 group: news
