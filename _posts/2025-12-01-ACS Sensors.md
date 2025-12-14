@@ -7,7 +7,8 @@ group: news
 
 <img src="/static\img\pub\ACS Sensors.jpeg" alt="MR5 2220 empty" class="img-responsive" style="display:block; margin:0 auto; width:60%; height:auto;">
 
-본 연구실의 김주현 박사, 황철진 박사가 공동으로 연구한  센서 분야의 권위 있는 국제 학술지인 ACS Sensors 2025년도 호에 게재되었습니다.
+
+본 연구실의 황철진 박사가 연구한 혈당 모니터링 기술이 센서 분야의 권위 있는 국제 학술지인 ACS Sensors 2025년도 호에 게재되었습니다.
 
 논문 제목은 Structurally Engineered All-Polymeric Microneedle Sensor for Highly Sensitive and Real-Time Monitoring of Glucose in Interstitial Fluids입니다.
 
