@@ -138,20 +138,6 @@
   "
 
 
-- name: Ji Hoon Seong
-  image: /static/img/members/unknownMan.jpg
-  #position: M.S Student
-  #email: 
-  description: "**Name** : Ji Hoon Seong
-
-
-  **Position** : M.S Student
-
-
-  **email** : yeers@inha.edu
-  "
-
-
 - name: Jong Moon Kim
   image: /static/img/members/unknownMan.jpg
   #position: M.S Student
@@ -177,4 +163,18 @@
 
 
   **email** : dabin0606@inha.edu
+  "
+
+
+- name: Ji Seok Kim
+  image: /static/img/members/unknownMan.jpg
+  #position: M.S Student
+  #email: 
+  description: "**Name** : Ji Seok Kim
+
+
+  **Position** : M.S Student
+
+
+  **email** : rick0859@inha.edu
   "
