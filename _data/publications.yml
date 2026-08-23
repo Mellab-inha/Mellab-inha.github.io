@@ -1,4 +1,17 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+- citation: '**Hankyung Kim**, **Chuljin Hwang**, **Dae Yu Kim**
+
+
+Deep-learning-based approach for accurate and rapid estimation of core body temperature using a single heat flux sensor
+
+
+Results in Engineering 2026'
+  date: 2026
+  image: '/static/img/pub/kim2026_core_body_temperature_ga.jpg'
+  pmid:
+  pdf: 'https://doi.org/10.1016/j.rineng.2026.112236'
+
+
 - citation: '**Jungmin Kim**, **Young-Sik Yoo**, **Jinheung Park**, **Woong-Joo Whang**, **Dae Yu Kim**
 
 
@@ -35,7 +48,7 @@ The FASEB Journal 2026'
   date: 2026
   image: '/static/img/pub/fsb271462-toc-0001-m.jpg'
   pmid:
-  pdf: '/static/pdf/The FASEB Journal - 2026 - Lee - Ocular Risks of Spaceflight and a Path to Prevention  Targeting Mitochondria ER Stress.11.pdf'
+  pdf: '/static/pdf/The FASEB Journal - 2026 - Lee - Ocular Risks of Spaceflight and a Path to Prevention  Targeting Mitochondria ER Stress.pdf'
 
 
 - citation: '**Jiyoung Emily Lee**, **Dong Kyu Kim**, **Young Chae Yoon**, **Woong Joo Whang**, **Ho Sik Hwang**, **Hyun Seung Kim**, **Dae Yu Kim**, **Kyung Sun Na**
@@ -659,4 +672,3 @@ JOURNAL OF BIOMEDICAL OPTICS, 15권 5호, 2010'
   image: '/static/img/pub/JBOPFO-000015-056011_1-g007.jpg'
   pmid: 21054105 
   pdf: '/static/pdf/JBOPFO-000015-056011_1.pdf'
-
