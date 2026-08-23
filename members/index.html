@@ -1,61 +1,83 @@
 ---
-title: Mel Lab Members
+title: People
 layout: members
 group: members
 ---
 
-<h1>Mel Lab Members</h1>
+<header class="page-intro">
+  <p class="eyebrow">People</p>
+  <h1>Members</h1>
+  <p>MEL Lab의 현재 구성원과 졸업생을 소개합니다.</p>
+</header>
 
-{% for person in site.data.members %}
-<hr>
-<!-- The paddingtop and margin-top edits allow anchors to link properly. -->
-<div id = "{{person.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
-    <div class="col-sm-4">
-        <img class="img-responsive" src="{{person.image}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.image}}';" {% endif %} alt="{{person.name}}"><br>
-        <strong>{{person.name}}</strong> <br>
-        {{person.position}} <br>
-        <em>{{person.email}}</em> <br>
-        {% if person.website %}
-          <a href= "{{person.website}}">{{person.website}}</a> <br>
-        {% endif %}
-        {% if person.scholar %}
-          <a href= "http://scholar.google.com/citations?user={{person.scholar}}"> Scholar Citations </a> <br>
-        {% endif %}
-        {% if person.twitter %}
-          <a href= "http://twitter.com/{{person.twitter}}"> @{{person.twitter}} </a> <br>
-        {% endif %}
+{% assign professor = site.data.members | first %}
+<section class="professor-card" id="{{ professor.name | slugify }}">
+  <div class="professor-photo">
+    <img src="{{ professor.image }}" alt="{{ professor.name }}">
+  </div>
+  <div class="professor-summary">
+    <p class="member-kicker">Principal Investigator</p>
+    <h2>{{ professor.name }}</h2>
+    <p class="member-position">{{ professor.position }}</p>
+    <p class="member-research">{{ professor.research }}</p>
+    <a href="mailto:{{ professor.email }}">{{ professor.email }}</a>
+    <details class="profile-details">
+      <summary>Education & experience</summary>
+      <div>{{ professor.description | markdownify }}</div>
+    </details>
+  </div>
+</section>
+
+<section class="section people-section">
+  <div class="section-heading compact">
+    <div>
+      <p class="eyebrow">Team</p>
+      <h2>Members & alumni</h2>
     </div>
-    <div class="col-sm-8">
-        <p class="text-justify">{{person.description | markdownify}}</p>
-    </div>  
-</div>
-{% endfor %}
+  </div>
 
-<h1>Alumni</h1>
+  <div class="filter-bar" data-filter-controls="people-grid" aria-label="멤버 분류">
+    <button class="filter-button active" type="button" data-filter="all">All</button>
+    <button class="filter-button" type="button" data-filter="postdoc">Postdoc</button>
+    <button class="filter-button" type="button" data-filter="phd">Ph.D.</button>
+    <button class="filter-button" type="button" data-filter="ms">M.S.</button>
+    <button class="filter-button" type="button" data-filter="alumni">Alumni</button>
+  </div>
 
-{% for person in site.data.members_Alumni %}
+  <div id="people-grid" class="people-grid">
+    {% for person in site.data.members offset:1 %}
+    <article class="person-card" data-filter-item data-category="{{ person.role }}" id="{{ person.name | slugify }}">
+      <div class="person-photo">
+        <img src="{{ person.image }}" alt="{{ person.name }}">
+      </div>
+      <div class="person-copy">
+        <p class="role-label">
+          {% case person.role %}
+            {% when "postdoc" %}Postdoc
+            {% when "phd" %}Ph.D.
+            {% when "ms" %}M.S.
+          {% endcase %}
+        </p>
+        <h3>{{ person.name }}</h3>
+        <p class="member-position">{{ person.position }}</p>
+        {% if person.research %}<p class="member-research">{{ person.research }}</p>{% endif %}
+        {% if person.email %}<a href="mailto:{{ person.email }}">{{ person.email }}</a>{% endif %}
+      </div>
+    </article>
+    {% endfor %}
 
-<hr>
-<!-- The paddingtop and margin-top edits allow anchors to link properly. -->
-<div id = "{{person.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
-    <div class="col-sm-4">
-        <img class="img-responsive" src="{{person.image}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.image}}';" {% endif %} alt="{{person.name}}"><br>
-        <strong>{{person.name}}</strong> <br>
-        {{person.position}} <br>
-        <em>{{person.email}}</em> <br>
-        {% if person.website %}
-          <a href= "{{person.website}}">{{person.website}}</a> <br>
-        {% endif %}
-        {% if person.scholar %}
-          <a href= "http://scholar.google.com/citations?user={{person.scholar}}"> Scholar Citations </a> <br>
-        {% endif %}
-        {% if person.twitter %}
-          <a href= "http://twitter.com/{{person.twitter}}"> @{{person.twitter}} </a> <br>
-        {% endif %}
-    </div>
-    <div class="col-sm-8">
-        <p class="text-justify">{{person.description | markdownify}}</p>
-    </div>  
-</div>
-{% endfor %}
-</div>
+    {% for person in site.data.members_Alumni %}
+    <article class="person-card alumni-card" data-filter-item data-category="alumni" id="{{ person.name | slugify }}">
+      <div class="person-photo">
+        <img src="{{ person.image }}" alt="{{ person.name }}">
+      </div>
+      <div class="person-copy">
+        <p class="role-label">Alumni</p>
+        <h3>{{ person.name }}</h3>
+        <p class="member-position">{{ person.position }}</p>
+        {% if person.current %}<p class="member-research">{{ person.current }}</p>{% endif %}
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+</section>
