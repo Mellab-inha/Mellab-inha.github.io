@@ -1,6 +1,7 @@
 ---
 title: 인하대 연구팀, 표면 센서로 내부 온도 30초 만에 추정하는 AI 기술 개발
 author: Han Kyung Kim
+date: 2026-08-24 04:03:04 +0900
 layout: post
 group: news
 ---
