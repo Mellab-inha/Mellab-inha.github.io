@@ -1,42 +1,86 @@
 {% include header.html %}
 
-
-<div class="row-fluid text-center">
-    <h2>Welcome to Measurement Engineering Laboratory!</h2>
-</div>
-
-<br>
-
-<img class="img-responsive-rounded center-block" src="/static/img/homeBack/Come.jpg" alt="bellab LabSnapshot" width="80%" height="80%">
-
-</div>
-
-<img class="img-responsive-rounded center-block" src="/static/img/homeBack/homeBack01.png" alt="bellab Lab CyTOF Snapshot">
-
-<br>
-
-<h3> <img class="img-responsive-rounded center-block" src="/static/img/homeBack/hompage_main02.png" alt="mellab Lab CyTOF Snapshot"> </h3>
-<br>
-</p>
-    <!--
-    <div class="col-sm-8">
-
-            <p><h2>Welcome to Measurement Engineering Laboratory! </h2>
-                <h3> ...</h3>
-                <br>
-                </p>
-
+<section class="hero">
+  <div class="hero-media" aria-hidden="true"></div>
+  <div class="site-shell hero-content">
+    <p class="eyebrow">Measurement Engineering Laboratory · Inha University</p>
+    <h1>We measure what matters<br>and turn signals into insight.</h1>
+    <p class="hero-lead">광학·스마트 센서·인공지능을 연결해 사람과 산업을 위한 차세대 계측 기술을 연구합니다.</p>
+    <div class="hero-actions">
+      <a class="button button-primary" href="/research">Explore our research</a>
+      <a class="button button-ghost" href="/members">Meet the team</a>
     </div>
--->
+  </div>
+</section>
 
-    <!--
-    <div class="col-sm-4">
-        
-    	<br>
-    	<img class="img-responsive-rounded center-block" src="/static/img/homeBack/homeNews01.jpeg" alt="...">
-    	<br> 
-        {% include sidebar.html %}
-    </div> 
--->
+<section class="section site-shell">
+  <div class="section-heading">
+    <div>
+      <p class="eyebrow">Research</p>
+      <h2>From sensing to intelligent systems</h2>
+    </div>
+    <p>정밀한 광학 계측부터 비침습 생체신호 분석, 지능형 센서 네트워크까지 하나의 흐름으로 연결합니다.</p>
+  </div>
+  <div class="research-grid">
+    <a class="research-card" href="/research#biomedical-optics">
+      <img src="/static/img/research/medicalDevice.png" alt="">
+      <span>01</span>
+      <h3>Biomedical Optics</h3>
+      <p>비침습 광학 영상과 의료 진단 기술</p>
+    </a>
+    <a class="research-card" href="/research#sensor--actuator">
+      <img src="/static/img/research/sensor_actu.png" alt="">
+      <span>02</span>
+      <h3>Smart Sensors</h3>
+      <p>생체·열·물리 신호를 읽는 지능형 센서</p>
+    </a>
+    <a class="research-card" href="/research#medical-image-analysis">
+      <img src="/static/img/pub/kim2026_core_body_temperature_ga.jpg" alt="">
+      <span>03</span>
+      <h3>AI & Data</h3>
+      <p>딥러닝 기반 신호 해석과 상태 추정</p>
+    </a>
+    <a class="research-card" href="/research#lidar">
+      <img src="/static/img/research/LiDAR.jpg" alt="">
+      <span>04</span>
+      <h3>Mobility & LiDAR</h3>
+      <p>고해상도 3차원 계측과 모빌리티 응용</p>
+    </a>
+  </div>
+</section>
+
+<section class="feature-band">
+  <div class="site-shell feature-grid">
+    <div class="feature-image">
+      <img src="/static/img/pub/kim2026_core_body_temperature_ga.jpg" alt="단일 열유속 센서와 딥러닝을 활용한 내부 온도 추정 기술">
+    </div>
+    <div class="feature-copy">
+      <p class="eyebrow">Featured publication · 2026</p>
+      <h2>내부 온도를 30초 만에 추정하는 AI 계측 기술</h2>
+      <p>단일 열유속 센서에서 얻은 초기 과도 신호를 딥러닝으로 해석해, 인체 심부체온과 산업 설비의 내부 온도를 빠르게 추정합니다.</p>
+      <a class="text-link" href="https://doi.org/10.1016/j.rineng.2026.112236">Read the paper <span aria-hidden="true">↗</span></a>
+    </div>
+  </div>
+</section>
+
+<section class="section site-shell">
+  <div class="section-heading compact">
+    <div>
+      <p class="eyebrow">News</p>
+      <h2>Latest from MEL Lab</h2>
+    </div>
+    <a class="text-link" href="/news">View all news <span aria-hidden="true">→</span></a>
+  </div>
+  <div class="news-grid">
+    {% for post in site.posts limit:3 %}
+    <article class="news-card">
+      <p class="card-date">{{ post.date | date: "%Y.%m.%d" }}</p>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 130 }}</p>
+      <a class="card-link" href="{{ post.url }}" aria-label="{{ post.title }} 자세히 보기">Read more <span aria-hidden="true">→</span></a>
+    </article>
+    {% endfor %}
+  </div>
+</section>
 
 {% include footer.html %}

@@ -1,63 +1,48 @@
 <!DOCTYPE html>
-
-<html lang="en">
+<html lang="ko">
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=2.0, maximum-scale=2.0, user-scalable=no">
-    <meta name="description" content="{{ site.description }}">
-    <!--
-    <meta name="theme-color" content="#76abff 003882">
-    아마 이부분을 건드리면 font크기를 바꿀 수 있을듯
-    --> 
-    <meta name="theme-color" content="#003882">
+    <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.name }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description | strip_newlines | escape }}">
+    <meta name="theme-color" content="#0c2d57">
     <link href="/static/css/bootstrap.css" rel="stylesheet">
-    <link href="/static/css/bootstrap-responsive.css" rel="stylesheet">
     <link href="/static/css/syntax.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
-    <!--
-    <div class="custom-header-container">
-      <img class="img-responsive center-block" src="/static/img/Zunder Lab Header Image.jpg" alt="Zunder Lab CyTOF Snapshot" height="auto" width="100%">
-    </div>
-    -->
     {% if page.group == 'news' %}
-    <link rel="alternate" type="application/atom+xml" title="Zunder Lab News Feed" href="/news.xml">
+    <link rel="alternate" type="application/atom+xml" title="MEL Lab News Feed" href="/news.xml">
     {% endif %}
-    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
   </head>
-
-  <body>
-
-    <!-- Static navbar -->
-      <div class="navbar navbar-static-top navbar-default" role="navigation">
-        <div class="container-fluid">
+  <body class="page-{{ page.group | default: 'default' }}">
+    <a class="skip-link" href="#main-content">본문으로 바로가기</a>
+    <header class="site-header">
+      <nav class="navbar navbar-default" aria-label="주요 메뉴">
+        <div class="site-shell">
           <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-              <span class="sr-only">Toggle navigation</span>
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#site-navigation" aria-expanded="false">
+              <span class="sr-only">메뉴 열기</span>
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/">{{site.name}}</a>
+            <a class="navbar-brand" href="/">
+              <span class="brand-mark">MEL</span>
+              <span class="brand-copy">
+                <strong>Measurement Engineering Lab</strong>
+                <small>Inha University</small>
+              </span>
+            </a>
           </div>
-          <div class="navbar-collapse collapse">
+          <div id="site-navigation" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
               {% for link in site.data.navlinks %}
-                {% if page.group == link.group %}
-                  <li class = "active"><a href="{{link.link}}" alt="{{link.name}}"> {{link.name}}</a></li>
-                {% else %}
-                  <li><a href="{{link.link}}" alt="{{link.name}}"> {{link.name}}</a></li>
-                {% endif %}
+                <li{% if page.group == link.group %} class="active"{% endif %}>
+                  <a href="{{ link.link }}">{{ link.name }}</a>
+                </li>
               {% endfor %}
-              <!-- <li><a href="https://sites.google.com/a/fraserlab.com/ucsf-private/" alt="Lab Private Area">private</a></li> -->
             </ul>
-          </div><!--/.nav-collapse -->
-        </div><!--/.container-fluid -->
-      </div>
-
-    <div class="container">
+          </div>
+        </div>
+      </nav>
+    </header>
+    <main id="main-content" class="{% if page.group == 'home' %}home-main{% else %}site-main site-shell{% endif %}">

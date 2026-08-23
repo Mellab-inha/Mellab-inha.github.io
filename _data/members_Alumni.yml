@@ -1,5 +1,8 @@
 - name: Jun Hyuk Lee
   image: /static/img/members/JH2.jpeg
+  role: alumni
+  position: M.S. Alumni
+  current: Samsung LSI Researcher
   #position: M.S Student
   #email: ...
   description: '**Name** : Jun Hyuk Lee
@@ -14,6 +17,9 @@
 
 - name: Su Keun Oh
   image: /static/img/members/SGSG.jpeg
+  role: alumni
+  position: M.S. Alumni
+  current: LG Siliconworks Researcher
   #position: M.S Student
   #email: ...
   description: '**Name** : Su Keun Oh
@@ -27,6 +33,9 @@
 
 - name: Sung Hun Jung
   image: /static/img/members/JSH.jpeg
+  role: alumni
+  position: M.S. Alumni
+  current: Machine Learning Researcher
   #position: M.S Student
   #email: ...
   description: '**Name** : Sung Hun Jung
@@ -40,6 +49,9 @@
 
 - name: Hyeon Woo Jeong
   image: /static/img/members/HYBono.jpeg
+  role: alumni
+  position: M.S. Alumni
+  current: AI Researcher
   #position: M.S Student
   #email: qhsh9713@gmail.com
   description: '**Name** : Hyeon Woo Jeong
@@ -53,6 +65,8 @@
 
 - name: Myung hee Kim
   image: /static/img/members/DrKimProfile.jpeg
+  role: alumni
+  position: Postdoctoral Alumna
   #position: Postdoc
   description: '**Name** : Myung hee Kim
 
@@ -64,6 +78,8 @@
 
 - name: Hyun Ji Shin
   image: /static/img/members/HJShin.jpg
+  role: alumni
+  position: Postdoctoral Alumna
   #position: Postdoc
   #email:
   description: '**Name** : Hyun ji Shin
@@ -76,6 +92,8 @@
 
 - name: Myeong Joo Son
   image: /static/img/members/MJS.jpg
+  role: alumni
+  position: Professor
   #position: Postdoc
   #email: 
   description: '**Name** : Myeong joo Son

@@ -1,5 +1,9 @@
 - name: Dae Yu Kim
   image: /static/img/members/DYKim.jpg
+  role: professor
+  position: Professor
+  email: dyukim@inha.ac.kr
+  research: Biomedical optics · Smart sensors · AI-based measurement
   #position: Professor
   #email: dyukim@inha.ac.kr
   #scholar: "wHUbRh4AAAAJ&hl"
@@ -44,6 +48,10 @@
 
 - name: Dong Jin Lee
   image: /static/img/members/DrLeeProfile.jpeg
+  role: postdoc
+  position: Postdoctoral Researcher
+  email: voinaimir82@gmail.com
+  research: Soft materials · Actuators
   #position: ...
   #email: voinaimir82@gmail.com
   description: "**Name** : Dong jin Lee
@@ -61,6 +69,10 @@
 
 - name: Chuljin Hwang
   image: /static/img/members/CJHwang.png
+  role: postdoc
+  position: Postdoctoral Researcher
+  email: aki@inha.ac.kr
+  research: Thin-film transistors · Biosensors · Biochips
   #position: ...
   #email: 
   description: "**Name** : Chuljin Hwang
@@ -78,6 +90,9 @@
 
 - name: Jihoon Lee
   image: /static/img/members/JHLee.jpg
+  role: postdoc
+  position: Postdoctoral Researcher
+  research: Neuroscience · Pharmacology
   #position: ...
   #email: 
   description: "**Name** : Jihoon Lee
@@ -95,6 +110,8 @@
 
 - name: Hang Chan Jo
   image: /static/img/members/unknownMan.jpg
+  role: phd
+  position: Ph.D. Student
   #position: Ph.D Student
   #email: 
   description: "**Name** : Hang Chan Jo
@@ -112,6 +129,9 @@
 
 - name: Jeong Min Kim 
   image: /static/img/members/unknownMan.jpg
+  role: phd
+  position: Ph.D. Student
+  email: 12171372@inha.edu
   #position: Ph.D Student
   #email: 
   description: "**Name** : Jeong Min Kim
@@ -126,6 +146,10 @@
 
 - name: Han Kyung Kim
   image: /static/img/members/HK.jpg
+  role: phd
+  position: Ph.D. Student
+  email: hankkim@inha.edu
+  research: Smart sensors · Deep learning · Thermal measurement
   #position: Ph.D Student
   #email: 
   description: "**Name** : Han Kyung Kim
@@ -140,6 +164,9 @@
 
 - name: Jong Moon Kim
   image: /static/img/members/unknownMan.jpg
+  role: ms
+  position: M.S. Student
+  email: kjm7224@inha.edu
   #position: M.S Student
   #email: 
   description: "**Name** : Jong Moon Kim
@@ -154,6 +181,9 @@
 
 - name: Da bin Choi
   image: /static/img/members/unknownMan.jpg
+  role: ms
+  position: M.S. Student
+  email: dabin0606@inha.edu
   #position: M.S Student
   #email: 
   description: "**Name** : Da bin Choi
@@ -168,6 +198,9 @@
 
 - name: Ji Seok Kim
   image: /static/img/members/unknownMan.jpg
+  role: ms
+  position: M.S. Student
+  email: rick0859@inha.edu
   #position: M.S Student
   #email: 
   description: "**Name** : Ji Seok Kim

@@ -1,18 +1,12 @@
 {% include header.html %}
-
-<div class="row-fluid">
-    <div class="col-sm-7 col-md-8">
-        <div class = "page header"><h1>{{ page.title }}</h1></div>
-        <p><span class="author"><a href="/members#{{post.author}}">{{page.author}}</a></span><br>
-        <span class="date"><em>{{ page.date | date_to_long_string }}</em></span></p>
-        {{ content }}
-        <!--{% include disqus.html %}-->
-    </div>
-    <!--
-    <div class="col-sm-5 col-md-4 hidden-xs">
-        {% include twitter_sidebar.html %}
-    </div>
-    -->
-</div>
-
+<article class="post-detail">
+  <header class="page-intro post-header">
+    <p class="eyebrow">MEL Lab News</p>
+    <h1>{{ page.title }}</h1>
+    <p class="post-meta">{{ page.date | date: "%Y.%m.%d" }} · {{ page.author }}</p>
+  </header>
+  <div class="post-body">
+    {{ content }}
+  </div>
+</article>
 {% include footer.html %}
