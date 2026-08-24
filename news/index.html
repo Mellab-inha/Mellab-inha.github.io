@@ -6,15 +6,15 @@ group: news
 
 <header class="page-intro">
   <p class="eyebrow">News</p>
-  <h1>Ideas, papers and<br>moments from the lab.</h1>
-  <p>논문 게재, 수상, 학술 활동과 연구실의 새로운 소식을 연도별로 모았습니다.</p>
+  <h1>Inside the lab,<br>one story at a time.</h1>
+  <p>연구 성과부터 수상, 학술 활동과 연구실의 일상까지. 사진과 핵심 내용을 한눈에 확인해 보세요.</p>
 </header>
 
 {% assign news_years = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 <div class="filter-bar sticky-filter" data-filter-controls="news-years" aria-label="뉴스 연도">
-  <button class="filter-button active" type="button" data-filter="all">All years</button>
+  <button class="filter-button active" type="button" data-filter="all" aria-pressed="true">All years</button>
   {% for year in news_years %}
-  <button class="filter-button" type="button" data-filter="{{ year.name }}">{{ year.name }}</button>
+  <button class="filter-button" type="button" data-filter="{{ year.name }}" aria-pressed="false">{{ year.name }}</button>
   {% endfor %}
 </div>
 
@@ -23,15 +23,39 @@ group: news
   <section class="news-year" data-filter-item data-category="{{ year.name }}">
     <div class="year-heading">
       <h2>{{ year.name }}</h2>
-      <span>{{ year.items | size }} stories</span>
+      <span>{{ year.items | size }}개의 소식</span>
     </div>
-    <div class="news-grid">
+    <div class="news-grid{% if year.items.size == 1 %} news-grid--single{% endif %}">
       {% for post in year.items %}
-      <article class="news-card">
-        <p class="card-date">{{ post.date | date: "%Y.%m.%d" }}</p>
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 150 }}</p>
-        <a class="card-link" href="{{ post.url }}" aria-label="{{ post.title }} 자세히 보기">Read more <span aria-hidden="true">→</span></a>
+      {% assign card_image = post.image %}
+      {% unless card_image %}
+        {% if post.content contains 'src="' %}
+          {% assign card_image = post.content | split: 'src="' | slice: 1 | first | split: '"' | first | replace: '\', '/' %}
+        {% endif %}
+      {% endunless %}
+      <article class="news-card{% if forloop.first %} news-card--featured{% endif %}">
+        <a class="news-card-link" href="{{ post.url }}" aria-label="{{ post.title }} 자세히 보기">
+          <div class="news-card-media">
+            {% if card_image %}
+            <img src="{{ card_image }}" alt=""{% if forloop.parentloop.first and forloop.first %} loading="eager" fetchpriority="high"{% else %} loading="lazy"{% endif %}>
+            {% else %}
+            <div class="news-card-placeholder" aria-hidden="true">
+              <span>MEL</span>
+              <small>Lab note</small>
+            </div>
+            {% endif %}
+            <span class="news-card-label">MEL News</span>
+          </div>
+          <div class="news-card-copy">
+            <div class="news-card-meta">
+              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y.%m.%d" }}</time>
+              <span>{{ post.author | default: "MEL Lab" }}</span>
+            </div>
+            <h3>{{ post.title }}</h3>
+            <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 132 }}</p>
+            <span class="card-link">소식 자세히 보기 <span aria-hidden="true">↗</span></span>
+          </div>
+        </a>
       </article>
       {% endfor %}
     </div>
