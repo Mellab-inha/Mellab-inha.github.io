@@ -11,40 +11,33 @@ group: news
 </header>
 
 {% assign news_years = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-<div class="filter-bar sticky-filter" data-filter-controls="news-years" aria-label="뉴스 연도">
+<div class="filter-bar sticky-filter" data-filter-controls="news-grid" aria-label="뉴스 연도">
   <button class="filter-button active" type="button" data-filter="all" aria-pressed="true">All years</button>
   {% for year in news_years %}
   <button class="filter-button" type="button" data-filter="{{ year.name }}" aria-pressed="false">{{ year.name }}</button>
   {% endfor %}
 </div>
 
-<div id="news-years" class="news-years">
-  {% for year in news_years %}
-  <section class="news-year" data-filter-item data-category="{{ year.name }}">
-    <div class="year-heading">
-      <h2>{{ year.name }}</h2>
-      <span>{{ year.items | size }}개의 소식</span>
-    </div>
-    <div class="news-grid{% if year.items.size == 1 %} news-grid--single{% endif %}">
-      {% for post in year.items %}
+<div id="news-grid" class="news-grid news-grid--stories">
+      {% for post in site.posts %}
+      {% assign post_year = post.date | date: '%Y' %}
       {% assign card_image = post.image %}
       {% unless card_image %}
         {% if post.content contains 'src="' %}
           {% assign card_image = post.content | split: 'src="' | slice: 1 | first | split: '"' | first | replace: '\', '/' %}
         {% endif %}
       {% endunless %}
-      <article class="news-card{% if forloop.first %} news-card--featured{% endif %}">
+      <article class="news-story-card" data-filter-item data-category="{{ post_year }}">
         <a class="news-card-link" href="{{ post.url }}" aria-label="{{ post.title }} 자세히 보기">
           <div class="news-card-media">
             {% if card_image %}
-            <img src="{{ card_image }}" alt=""{% if forloop.parentloop.first and forloop.first %} loading="eager" fetchpriority="high"{% else %} loading="lazy"{% endif %}>
+            <img src="{{ card_image }}" alt=""{% if forloop.first %} loading="eager" fetchpriority="high"{% else %} loading="lazy"{% endif %}>
             {% else %}
             <div class="news-card-placeholder" aria-hidden="true">
               <span>MEL</span>
               <small>Lab note</small>
             </div>
             {% endif %}
-            <span class="news-card-label">MEL News</span>
           </div>
           <div class="news-card-copy">
             <div class="news-card-meta">
@@ -53,12 +46,8 @@ group: news
             </div>
             <h3>{{ post.title }}</h3>
             <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 132 }}</p>
-            <span class="card-link">소식 자세히 보기 <span aria-hidden="true">↗</span></span>
           </div>
         </a>
       </article>
       {% endfor %}
-    </div>
-  </section>
-  {% endfor %}
 </div>
