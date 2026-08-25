@@ -63,6 +63,20 @@
   **Job** : 인공지능 Researcher
   '
 
+- name: Jeong Min Kim
+  image: /static/img/members/unknownMan.jpg
+  role: alumni
+  position: Ph.D. Alumni
+  current: LG Energy Solution
+  description: '**Name** : Jeong Min Kim
+
+
+  **Position** : Ph.D. Alumni
+
+
+  **Job** : LG Energy Solution
+  '
+
 - name: Myung hee Kim
   image: /static/img/members/DrKimProfile.jpeg
   role: alumni
