@@ -196,21 +196,6 @@
   "
 
 
-- name: Kim Do Yun
-  image: /static/img/members/unknownMan.jpg
-  role: ms
-  position: M.S. Student
-  email: doyun4731@inha.edu
-  description: "**Name** : Kim Do Yun
-
-
-  **Position** : M.S Student
-
-
-  **email** : doyun4731@inha.edu
-  "
-
-
 - name: Jo Chanhyeong
   image: /static/img/members/unknownMan.jpg
   role: ms
@@ -223,4 +208,19 @@
 
 
   **email** : jch4017@inha.edu
+  "
+
+
+- name: Kim Do Yun
+  image: /static/img/members/unknownMan.jpg
+  role: ms
+  position: M.S. Student
+  email: doyun4731@inha.edu
+  description: "**Name** : Kim Do Yun
+
+
+  **Position** : M.S Student
+
+
+  **email** : doyun4731@inha.edu
   "
