@@ -127,23 +127,6 @@
   "
 
 
-- name: Jeong Min Kim 
-  image: /static/img/members/unknownMan.jpg
-  role: phd
-  position: Ph.D. Student
-  email: 12171372@inha.edu
-  #position: Ph.D Student
-  #email: 
-  description: "**Name** : Jeong Min Kim
-
-
-  **Position** : Ph.D Student
-
-
-  **email** : 12171372@inha.edu
-  "
-
-
 - name: Han Kyung Kim
   image: /static/img/members/HK.jpg
   role: phd
@@ -210,4 +193,19 @@
 
 
   **email** : rick0859@inha.edu
+  "
+
+
+- name: Kim Do Yun
+  image: /static/img/members/unknownMan.jpg
+  role: ms
+  position: M.S. Student
+  email: doyun4731@inha.edu
+  description: "**Name** : Kim Do Yun
+
+
+  **Position** : M.S Student
+
+
+  **email** : doyun4731@inha.edu
   "
