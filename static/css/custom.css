@@ -229,7 +229,7 @@ h4 {
 
 .hero .eyebrow {
   color: #9ddde7;
-  font-size: clamp(15px, 1.35vw, 17px);
+  font-size: clamp(19px, 1.65vw, 22px);
   line-height: 1.5;
   letter-spacing: 0.12em;
 }

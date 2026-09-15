@@ -1,4 +1,121 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+- citation: '**Sungmin Bae**, **Dong-Jin Lee**, **Chuljin Hwang**, **Dae Yu Kim**
+
+
+Reusable and Soft Self-Adhesive Epidermal Electrodes for Human Skin Enabled by Functional Additives
+
+
+Micromachines 17(9), 1066, 2026. doi: 10.3390/mi17091066'
+  date: 2026
+  image: '/static/img/pub/bae2026_reusable_epidermal_electrodes.svg'
+  pmid:
+  pdf: '/static/pdf/bae2026_reusable_epidermal_electrodes.pdf'
+
+
+- citation: '**Hang Chan Jo**, Hyun-Ji Lee, Sang-Won Lee, **Dae Yu Kim**
+
+
+Verification of Customized Conjunctival Blood Flow Velocity Measurement System with Artificial Motion
+
+
+Proceedings of SPIE 12387, 1238709, 2023. doi: 10.1117/12.2648652'
+  date: 2023
+  image: '/static/img/pub/jo2023_conjunctival_blood_flow_velocity.svg'
+  pmid:
+  pdf: '/static/pdf/jo2023_conjunctival_blood_flow_velocity.pdf'
+
+
+- citation: '**Hang Chan Jo**, Robert J. Zawadzki, **Dae Yu Kim**
+
+
+Off-Axis Alignment Based on Optical Three-Dimension Rendering for Compact Adaptive Optics Scanning Laser Ophthalmoscope
+
+
+Proceedings of SPIE 12222, 122220K, 2022. doi: 10.1117/12.2632689'
+  date: 2022
+  image: '/static/img/pub/jo2022_off_axis_alignment_ao_slo.svg'
+  pmid:
+  pdf: '/static/pdf/jo2022_off_axis_alignment_ao_slo.pdf'
+
+
+- citation: '**Hang Chan Jo**, Jae Hun Kim, **Dae Yu Kim**
+
+
+In Vivo Observing Effects of the Microgravity Environment on Zebrafish Eyes Using Optical Coherence Tomography
+
+
+Proceedings of SPIE 11964, 119640O, 2022. doi: 10.1117/12.2608621'
+  date: 2022
+  image: '/static/img/pub/jo2022_microgravity_zebrafish_eyes.svg'
+  pmid:
+  pdf: '/static/pdf/jo2022_microgravity_zebrafish_eyes.pdf'
+
+
+- citation: '**Hang Chan Jo**, **Dae Yu Kim**
+
+
+In Vivo 3D Zebrafish Imaging for Longitudinal Observation of the Retina Regeneration with Different Light Intensity Irradiations
+
+
+Proceedings of SPIE 11623, 1162325, 2021. doi: 10.1117/12.2577351'
+  date: 2021
+  image: '/static/img/pub/jo2021_zebrafish_retina_regeneration.svg'
+  pmid:
+  pdf: '/static/pdf/jo2021_zebrafish_retina_regeneration.pdf'
+
+
+- citation: 'Juyeong Oh, Yu Jeong Kim, Youngho Cho, Subeen Park, Hyung Min Kim, Chulki Kim, Taikjin Lee, Seong Chan Jun, Ki Ho Park, **Dae Yu Kim**, Jae Hun Kim, Seok Hwan Kim
+
+
+Imaging and Differentiation of Retinal Ganglion Cells in Ex Vivo Experimental Optic Nerve Degeneration by Differential Interference Contrast Microscopy
+
+
+Current Eye Research 44(7), 760-769, 2019. doi: 10.1080/02713683.2019.1593463'
+  date: 2019
+  image: '/static/img/pub/oh2019_retinal_ganglion_cells_dic.svg'
+  pmid:
+  pdf: '/static/pdf/oh2019_retinal_ganglion_cells_dic.pdf'
+
+
+- citation: '**Dong-Jin Lee**, Ha-Young Jang, Ki-Wook Moon, Eun-Joo Lee, A-Ram Yoo, Woo Sung Choi, Chang Kyu Sung, Jae Hun Kim, **Dae Yu Kim**
+
+
+Near-Infrared Light Therapy for Recovery of Cerebral Hypoperfusion Induced by Bilateral Common Carotid Artery Stenosis in Mice
+
+
+Proceedings of SPIE 11079, 110791F, 2019. doi: 10.1117/12.2526907'
+  date: 2019
+  image: '/static/img/pub/lee2019_near_infrared_light_therapy.svg'
+  pmid:
+  pdf: '/static/pdf/lee2019_near_infrared_light_therapy.pdf'
+
+
+- citation: '**Hang Chan Jo**, Jae Hun Kim, **Dae Yu Kim**
+
+
+Comparison of Light Absorption Levels with Different Skin Phantoms and the Monte Carlo Simulation Using Fourier-Domain Optical Coherence Tomography
+
+
+Proceedings of SPIE 10492, 104920X, 2018. doi: 10.1117/12.2284767'
+  date: 2018
+  image: '/static/img/pub/jo2018_light_absorption_skin_phantoms.svg'
+  pmid:
+  pdf: '/static/pdf/jo2018_light_absorption_skin_phantoms.pdf'
+
+
+- citation: '**Hang Chan Jo**, Dong Jun Shin, Jin-Chul Ahn, Phil-Sang Chung, **Dae Yu Kim**
+
+
+In Vivo Monitoring Laser Tissue Interaction Using High Resolution Fourier-Domain Optical Coherence Tomography
+
+
+Proceedings of SPIE 10062, 1006217, 2017. doi: 10.1117/12.2251558'
+  date: 2017
+  image: '/static/img/pub/jo2017_in_vivo_monitoring_laser_tissue_interaction.svg'
+  pmid:
+  pdf: '/static/pdf/jo2017_in_vivo_monitoring_laser_tissue_interaction.pdf'
+
+
 - citation: '**Hankyung Kim**, **Chuljin Hwang**, **Dae Yu Kim**
 
 
@@ -479,12 +596,6 @@ JOURNAL OF REFRACTIVE SURGERY, 34권 4호, pp. 236~236, 2018'
   #pmid: 29634838
   #pdf: ''
 
-#- citation: '**Hang Chan Jo**, Jae Hun Kim, **Dae Yu Kim**, Comparison of light absorption levels with different skin phantoms and the Monte Carlo simulation using Fourier-domain optical coherence tomography , PROCEEDINGS OF SPIE , 2018'
-#  date: 2018
-#  image: ''
-#  #pmid: 29634838
-#  pdf: ''
-
 - citation: 'Yoo YS, Na KS, **Kim DY**, Yang SW, Joo CK. 
 
 
@@ -496,12 +607,6 @@ EXPERIMENTAL EYE RESEARCH, 163권 Special SI호, pp. 72~77, 2017'
   image: '/static/img/pub/1-s2.0-S0014483517302580-gr5_lrg.jpg'
   pmid: 28950940
   pdf: '/static/pdf/1-s2.0-S0014483517302580-main.pdf'
-
-#- citation: 'Hang Chan Jo, Dong Jun Shin, Jin-Chul Ahn, Phil-Sang Chung, DaeYu Kims, In vivo monitoring laser tissue interaction using high resolution Fourier-domain optical coherence tomography, PROCEEDINGS OF SPIE , 2017'
-#  date: 2017
-  #image: ''
-  #pmid: 29634838
-  #pdf: ''
 
 - citation:  'Susanna S. Park, Sumeer Thinda, **Dae Yu Kim**, Robert J. Zawadzki, John S. Werner  
 
