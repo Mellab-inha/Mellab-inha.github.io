@@ -1,4 +1,30 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+- citation: '**Chuljin Hwang**, **Ju Hyeon Kim**, **Hang Chan Jo**, **Dae Yu Kim**
+
+
+A Spiral-Interlocking Microneedle Enabling Long-Term in Planta Glucose Monitoring
+
+
+ACS Applied Materials & Interfaces 18(39), 53922-53934, 2026. doi: 10.1021/acsami.6c10560'
+  date: 2026
+  image: '/static/img/pub/hwang2026_spiral_interlocking_microneedle_fig1.png'
+  pmid:
+  pdf: 'https://doi.org/10.1021/acsami.6c10560'
+
+
+- citation: '**Chuljin Hwang**, **Sungjun Park**, **Dae Yu Kim**
+
+
+Noninvasive and Ultrasensitive Glucose Detection via Electrolyte-Gated IGZO Thin-Film Transistors
+
+
+IEEE Sensors Journal 26(10), 16062-16068, 2026. doi: 10.1109/JSEN.2026.3661008'
+  date: 2026
+  image: '/static/img/pub/hwang2026_igzo_glucose_fig3.png'
+  pmid:
+  pdf: 'https://doi.org/10.1109/JSEN.2026.3661008'
+
+
 - citation: '**Sungmin Bae**, **Dong-Jin Lee**, **Chuljin Hwang**, **Dae Yu Kim**
 
 
