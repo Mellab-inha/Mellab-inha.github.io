@@ -18,9 +18,10 @@
           </figure>
           {% endfor %}
         </div>
-        <div class="news-gallery-controls">
-          <button class="button button-small" type="button" data-target="#news-photos" data-slide="prev" aria-label="이전 사진">← 이전</button>
-          <button class="button button-small" type="button" data-target="#news-photos" data-slide="next" aria-label="다음 사진">다음 →</button>
+        <div class="carousel-indicators news-gallery-controls">
+          {% for photo in page.photos %}
+          <button{% if forloop.first %} class="active"{% endif %} type="button" data-target="#news-photos" data-slide-to="{{ forloop.index0 }}" aria-label="사진 {{ forloop.index }}: {{ photo.caption | escape }}"></button>
+          {% endfor %}
         </div>
       </div>
     </section>
