@@ -938,6 +938,11 @@ h4 {
   border-radius: 14px;
 }
 
+.news-gallery { margin: 36px 0; }
+.post-body .news-gallery img { width: 100%; height: clamp(300px, 65vh, 680px); object-fit: contain; margin: 0; background: #f3f5f8; }
+.news-gallery figcaption { padding: 14px 0; text-align: center; font-size: 14px; }
+.news-gallery-controls { display: flex; justify-content: center; gap: 16px; margin-top: 12px; }
+
 .site-main > h1,
 .site-main > h2,
 .site-main > h3 {

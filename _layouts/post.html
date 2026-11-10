@@ -7,6 +7,24 @@
   </header>
   <div class="post-body">
     {{ content }}
+    {% if page.photos %}
+    <section class="news-gallery" aria-label="관련 사진">
+      <div id="news-photos" class="carousel slide" data-interval="false" tabindex="0" aria-label="사진 슬라이드">
+        <div class="carousel-inner">
+          {% for photo in page.photos %}
+          <figure class="item{% if forloop.first %} active{% endif %}">
+            <img src="{{ photo.src }}" alt="{{ photo.caption | escape }}">
+            <figcaption>{{ forloop.index }} / {{ page.photos.size }} · {{ photo.caption }}</figcaption>
+          </figure>
+          {% endfor %}
+        </div>
+        <div class="news-gallery-controls">
+          <button class="button button-small" type="button" data-target="#news-photos" data-slide="prev" aria-label="이전 사진">← 이전</button>
+          <button class="button button-small" type="button" data-target="#news-photos" data-slide="next" aria-label="다음 사진">다음 →</button>
+        </div>
+      </div>
+    </section>
+    {% endif %}
   </div>
 </article>
 {% include footer.html %}
